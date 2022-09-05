@@ -1,5 +1,7 @@
 .MainContainer{
   background-color: #829ed4;
+  min-height: 100vh;
+  color: white;
 }
 
 body {
@@ -16,4 +18,5 @@ body {
 code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
+    background-color: #829ed4;
 }
