@@ -4,12 +4,14 @@ import {BrowserRouter} from "react-router-dom";
 import './index.css';
 import 'bootstrap/dist/css/bootstrap.min.css';
 import HomeBar from './HomeBar.js';
+import NavBar from './NavBar.js';
 import reportWebVitals from './reportWebVitals';
 
 const root = ReactDOM.createRoot(document.getElementById('root'));
 root.render(
   <div className='MainContainer'>
     <HomeBar />
+    <NavBar />
     <p>
     OUII PUNDEH!!!!!!!!!!!!
     </p>
