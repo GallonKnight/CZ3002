@@ -2,14 +2,19 @@ import React from 'react';
 import ReactDOM from 'react-dom/client';
 import {BrowserRouter} from "react-router-dom";
 import './index.css';
-import App from './App';
+import 'bootstrap/dist/css/bootstrap.min.css';
+import HomeBar from './HomeBar.js';
 import reportWebVitals from './reportWebVitals';
 
 const root = ReactDOM.createRoot(document.getElementById('root'));
 root.render(
-  <BrowserRouter>
-    <App />
-  </BrowserRouter>
+  <div className='MainContainer'>
+    <HomeBar />
+    <p>
+    OUII PUNDEH!!!!!!!!!!!!
+    </p>
+    
+  </div>
 );
 
 // If you want to start measuring performance in your app, pass a function
