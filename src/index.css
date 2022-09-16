@@ -4,6 +4,27 @@
   color: white;
 }
 
+.PlannerContainer{
+  padding: 10px;
+  margin: 25px;
+
+  background-color: #FFFFFF;
+  border-radius: 10px;
+  min-height: 70vh;
+
+  color: black;
+}
+
+.inexButton{
+  display: flex;
+  flex-flow: row;
+  margin: 0 auto;
+  min-height: 50vh;
+  align-items:flex-end;
+  justify-content: center;
+}
+
+
 body {
   margin: 0;
   font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
