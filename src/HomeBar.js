@@ -3,8 +3,10 @@ import logo from './logo.png';
 function HomeBar() {
   return (
     <div>
-      <img className="home" src={logo} width ={"auto"} height ={100} />
-    </div>
+  <a href = "/">
+    <img src= {logo} width = "auto" height = "100" />
+  </a>
+</div> 
   );
 }
 
