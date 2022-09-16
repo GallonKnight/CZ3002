@@ -12,9 +12,6 @@ root.render(
   <div className='MainContainer'>
     <HomeBar />
     <NavBar />
-    <p>
-    WELCOME TO GO WHERE GAI GAI WHERE YOU CAN SEARCH THE BEST PLACES TO GO IN SINGAPORE :D
-    </p>
     
   </div>
 );

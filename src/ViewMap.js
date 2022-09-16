@@ -1,13 +1,32 @@
-import * as React from 'react';
+
 import { MapContainer, ZoomControl, TileLayer, LayersControl, GeoJSON } from 'react-leaflet';
 import "leaflet/dist/leaflet.css";
+import CurrentLocation from './CurrentLocation';
+import Button from 'react-bootstrap/Button';
+import React, { useState } from "react";
 
-const ViewMap = () => {
+ const ViewMap = () => {
+    
+    const [text, setText] = 
+    useState("");
+    const handleSubmit = (event) => {
+      event.preventDefault();
+      setText(event.target[0].value);
+    };
+    
+
     return (
       <div>
-        <MapContainer 
-          center={[1.290270, 103.851959]} 
-          zoom={50} 
+        
+        <form onSubmit={handleSubmit}>
+        <input type="text" />
+        <button type="submit">Submit</button>
+      </form>
+      <h1>{text}</h1>
+
+        <MapContainer   
+          center={[1.331232, 103.814020]} 
+          zoom={11.5} 
           zoomControl={false} 
           style={{ height: '100vh', width: '100%' }}>
   
