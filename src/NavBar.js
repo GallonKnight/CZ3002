@@ -8,7 +8,9 @@ import { BrowserRouter as Router,
   Route,
   Redirect } from "react-router-dom";
 import ViewMap from './ViewMap';
+import ViewMap2 from './ViewMap2';
 import Planner from './Planner';
+
 
 function NavBar() {
   return (
@@ -19,6 +21,7 @@ function NavBar() {
       <Nav className="me-auto">
         <Nav.Link href="Planner">Planner</Nav.Link>
         <Nav.Link href="ViewMap">View Map</Nav.Link>
+        <Nav.Link href="ViewMap2">View Map2</Nav.Link>
       </Nav>
       </Navbar.Collapse>
     </Navbar>
@@ -30,8 +33,9 @@ function NavBar() {
       
 
       <Route path='/Planner' element={<Planner/>} />
-
       <Route path='/ViewMap' element={<ViewMap/>} />
+      <Route path='/ViewMap2' element= {<ViewMap2/>} />
+      
 
       {/*<Route exact path="/Planner" component={Planning} /> */}
       </Routes>

@@ -12,7 +12,7 @@ root.render(
   <div className='MainContainer'>
     <HomeBar />
     <NavBar />
-    
+    <div style={{textAlign:"center"}}>This web application is done by group-ONE</div>
   </div>
 );
 
