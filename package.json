@@ -9,6 +9,7 @@
     "bootstrap": "^5.2.0",
     "leaflet": "^1.8.0",
     "leaflet-control-geocoder": "^2.4.0",
+    "leaflet-geosearch": "^3.6.1",
     "node-geocoder": "^4.2.0",
     "react": "^18.2.0",
     "react-async": "^10.0.1",
