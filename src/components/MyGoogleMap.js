@@ -57,10 +57,10 @@ class MyGoogleMap extends Component {
 
     _onClick = (value) => {
         this.setState({
+            draggable: true,
             lat: value.lat,
             lng: value.lng
         });
-        this._generateAddress();
     }
 
     apiHasLoaded = (map, maps) => {
@@ -143,7 +143,7 @@ class MyGoogleMap extends Component {
                     onChildClick={() => console.log('child click')}
                     onClick={this._onClick}
                     bootstrapURLKeys={{
-                        key: 'AIzaSyAVreBfMh3OZepBOMXM3twtvThGqQWMSQs',
+                        key: 'AIzaSyAM9uE4Sy2nWFfP-Ha6H8ZC6ghAMKJEKps',
                         libraries: ['places', 'geometry'],
                     }}
                     yesIWantToUseGoogleMapApiInternals
@@ -162,10 +162,7 @@ class MyGoogleMap extends Component {
                 <div className="info-wrapper">
                     <div className="map-details">Latitude: <span>{this.state.lat}</span>, Longitude: <span>{this.state.lng}</span></div>
                     <div className="map-details">Zoom: <span>{this.state.zoom}</span></div>
-                    <div className="map-details">Address: <span>{this.state.address}</span></div>
                 </div>
-
-
             </Wrapper >
         );
     }
