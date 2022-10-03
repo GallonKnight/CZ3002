@@ -1,56 +1,109 @@
+import React, { Component } from 'react';
+import {Map, Marker, GoogleApiWrapper} from 'google-maps-react';
+import PlacesAutocomplete, {
+  geocodeByAddress,
+  getLatLng,
+} from 'react-places-autocomplete';
 
-import { MapContainer, ZoomControl, TileLayer, LayersControl, GeoJSON } from 'react-leaflet';
-import "leaflet/dist/leaflet.css";
-import CurrentLocation from './CurrentLocation';
-import Button from 'react-bootstrap/Button';
-import React, { useState } from "react";
+export class MapContainer extends Component {
+  constructor(props) {
+    super(props);
+    this.state = {
+      // for google map places autocomplete
+      address: '',
 
- const ViewMap = () => {
-    
-    const [text, setText] = 
-    useState("");
-    const handleSubmit = (event) => {
-      event.preventDefault();
-      setText(event.target[0].value);
+      showingInfoWindow: false,
+      activeMarker: {},
+      selectedPlace: {},
+  
+      mapCenter: {
+        lat: 1.331232,
+        lng: 103.814020
+      }
     };
-    
+  }
 
+  handleChange = address => {
+    this.setState({ address });
+  };
+ 
+  handleSelect = address => {
+    this.setState({ address });
+    geocodeByAddress(address)
+      .then(results => getLatLng(results[0]))
+      .then(latLng => {
+        console.log('Success', latLng);
+
+        // update center state
+        this.setState({ mapCenter: latLng });
+      })
+      .catch(error => console.error('Error', error));
+  };
+ 
+  render() {
     return (
-      <div>
-        
-        <form onSubmit={handleSubmit}>
-        <input type="text" />
-        <button type="submit">Submit</button>
-      </form>
-      <h1>{text}</h1>
+      <div id='googleMaps'>
+        <PlacesAutocomplete
+          value={this.state.address}
+          onChange={this.handleChange}
+          onSelect={this.handleSelect}
+        >
+          {({ getInputProps, suggestions, getSuggestionItemProps, loading }) => (
+            <div>
+              <input
+                {...getInputProps({
+                  placeholder: 'Search Places ...',
+                  className: 'location-search-input',
+                })}
+              />
+              <div className="autocomplete-dropdown-container">
+                {loading && <div>Loading...</div>}
+                {suggestions.map(suggestion => {
+                  const className = suggestion.active
+                    ? 'suggestion-item--active'
+                    : 'suggestion-item';
+                  // inline style for demonstration purpose
+                  const style = suggestion.active
+                    ? { backgroundColor: '#fafafa', cursor: 'pointer' }
+                    : { backgroundColor: '#ffffff', cursor: 'pointer' };
+                  return (
+                    <div
+                      {...getSuggestionItemProps(suggestion, {
+                        className,
+                        style,
+                      })}
+                    >
+                      <span>{suggestion.description}</span>
+                    </div>
+                  );
+                })}
+              </div>
+            </div>
+          )}
+        </PlacesAutocomplete>
 
-        <MapContainer   
-          center={[1.331232, 103.814020]} 
-          zoom={11.5} 
-          zoomControl={false} 
-          style={{ height: '100vh', width: '100%' }}>
-  
-        <LayersControl position="topright">
-            <LayersControl.BaseLayer checked name="Basic Map">
-              <TileLayer
-                attribution='&copy; <a href="http://osm.org/copyright">OpenStreetMap</a> contributors'
-                url="https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png"
-              />
-            </LayersControl.BaseLayer>
-        
-            <LayersControl.BaseLayer name="Topo Map">
-              <TileLayer
-                attribution='Map data: &copy; <a href="https://www.openstreetmap.org/copyright">OpenStreetMap</a> contributors, <a href="http://viewfinderpanoramas.org">SRTM</a> | Map style: &copy; <a href="https://opentopomap.org">OpenTopoMap</a> (<a href="https://creativecommons.org/licenses/by-sa/3.0/">CC-BY-SA</a>)'
-                url="https://{s}.tile.opentopomap.org/{z}/{x}/{y}.png"
-              />
-            </LayersControl.BaseLayer>
-        </LayersControl>
-        
-        <ZoomControl position='topright'/>
-  
-        </MapContainer>
+        <Map 
+          google={this.props.google}
+          initialCenter={{
+            lat: this.state.mapCenter.lat,
+            lng: this.state.mapCenter.lng
+          }}
+          center={{
+            lat: this.state.mapCenter.lat,
+            lng: this.state.mapCenter.lng
+          }}
+        >
+          <Marker 
+            position={{
+              lat: this.state.mapCenter.lat,
+              lng: this.state.mapCenter.lng
+            }} />
+        </Map>
       </div>
     )
   }
-  
-  export default ViewMap
+}
+
+export default GoogleApiWrapper({
+  apiKey: ('AIzaSyCSPAvbepDjGB63R0bCopylFHtrr4wiIVs')
+})(MapContainer)
