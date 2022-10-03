@@ -1,6 +1,6 @@
 .MainContainer{
   background-color: #829ed4;
-  min-height: 100vh;
+  min-height: 150vh;
   color: white;
 }
 .leaflet-control-geosearch .results > *{
@@ -52,7 +52,7 @@ code {
 }
 
 .main-wrapper {
-  height: 60vh;
+  height: 100vh;
   margin: 10px 50px;
   filter: drop-shadow(-1px 5px 3px #ccc);
 }

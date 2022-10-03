@@ -60,6 +60,7 @@ class MyGoogleMap extends Component {
             lat: value.lat,
             lng: value.lng
         });
+        this._generateAddress();
     }
 
     apiHasLoaded = (map, maps) => {
