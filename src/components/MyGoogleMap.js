@@ -57,9 +57,8 @@ class MyGoogleMap extends Component {
 
     _onClick = (value) => {
         this.setState({
-            draggable: true,
             lat: value.lat,
-            lng: value.lng
+            lng: value.lng,
         });
     }
 
@@ -143,7 +142,7 @@ class MyGoogleMap extends Component {
                     onChildClick={() => console.log('child click')}
                     onClick={this._onClick}
                     bootstrapURLKeys={{
-                        key: 'AIzaSyAM9uE4Sy2nWFfP-Ha6H8ZC6ghAMKJEKps',
+                        key: 'AIzaSyAVreBfMh3OZepBOMXM3twtvThGqQWMSQs',
                         libraries: ['places', 'geometry'],
                     }}
                     yesIWantToUseGoogleMapApiInternals
