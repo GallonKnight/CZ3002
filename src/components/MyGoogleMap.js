@@ -7,7 +7,6 @@ import styled from 'styled-components';
 
 import AutoComplete from './Autocomplete';
 import Marker from './Marker';
-import Datafile from '../Datafile';
 import logo from '../logo.png';
 
 const data = require('../CZ3002_dataset_short.json');
