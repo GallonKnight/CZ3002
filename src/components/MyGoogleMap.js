@@ -7,6 +7,20 @@ import styled from 'styled-components';
 
 import AutoComplete from './Autocomplete';
 import Marker from './Marker';
+import Datafile from '../Datafile';
+import logo from '../logo.png';
+
+const data = require('../CZ3002_dataset_short.json');
+
+
+const markerStyle = {
+    position: "absolute",
+    width: "25px",
+    height: "30px",
+    top: "10",
+    left: "10%",
+  };
+
 
 const Wrapper = styled.main`
   width: 100%;
@@ -29,11 +43,10 @@ class MyGoogleMap extends Component {
         lat: null,
         lng: null
     };
-
-    componentWillMount() {
+      
+    componentDidMount() {
         this.setCurrentLocation();
     }
-
 
     onMarkerInteraction = (childKey, childProps, mouse) => {
         this.setState({
@@ -118,6 +131,7 @@ class MyGoogleMap extends Component {
         }
     }
 
+
     render() {
         const {
             places, mapApiLoaded, mapInstance, mapApi,
@@ -148,7 +162,14 @@ class MyGoogleMap extends Component {
                     yesIWantToUseGoogleMapApiInternals
                     onGoogleApiLoaded={({ map, maps }) => this.apiHasLoaded(map, maps)}
                 >
-
+                    {data.map(item => {
+                    return (
+                    <div lat={item.latitude} lng={item.longitude}>
+                    <div onClick={()=>item.Address} />
+                    <img style={markerStyle} src={logo} alt="logo" />
+                    </div>
+                    );
+                    })} 
                     <Marker
                         text={this.state.address}
                         lat={this.state.lat}
@@ -157,7 +178,7 @@ class MyGoogleMap extends Component {
 
 
                 </GoogleMapReact>
-
+                {/* <Datafile/> */}
                 <div className="info-wrapper">
                     <div className="map-details">Latitude: <span>{this.state.lat}</span>, Longitude: <span>{this.state.lng}</span></div>
                     <div className="map-details">Zoom: <span>{this.state.zoom}</span></div>
