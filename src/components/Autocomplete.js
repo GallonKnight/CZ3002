@@ -20,6 +20,10 @@ class AutoComplete extends Component {
     componentDidMount({ map, mapApi } = this.props) {
         const options = {
             // restrict your search to a specific type of result
+<<<<<<< HEAD
+=======
+            //types: ['address'],
+>>>>>>> c18516ec145051361d143757265119101f7ecb3e
             // restrict your search to a specific country, or an array of countries
             // componentRestrictions: { country: ['gb', 'us'] },
         };
