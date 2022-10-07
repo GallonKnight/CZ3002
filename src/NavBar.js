@@ -10,6 +10,7 @@ import { BrowserRouter as Router,
 import ViewMap from './ViewMap';
 import ViewMap2 from './ViewMap2';
 import Planner from './Planner';
+import ViewLocations from './ViewLocations';
 
 
 function NavBar() {
@@ -22,6 +23,7 @@ function NavBar() {
         <Nav.Link href="Planner">Planner</Nav.Link>
         <Nav.Link href="ViewMap">View Map</Nav.Link>
         <Nav.Link href="ViewMap2">View Map2</Nav.Link>
+        <Nav.Link href="ViewLocations"> View Locations</Nav.Link>
       </Nav>
       </Navbar.Collapse>
     </Navbar>
@@ -35,6 +37,7 @@ function NavBar() {
       <Route path='/Planner' element={<Planner/>} />
       <Route path='/ViewMap' element={<ViewMap/>} />
       <Route path='/ViewMap2' element= {<ViewMap2/>} />
+      <Route path='ViewLocations' element = {<ViewLocations/>} />
       
 
       {/*<Route exact path="/Planner" component={Planning} /> */}
