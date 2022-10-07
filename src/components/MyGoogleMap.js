@@ -58,7 +58,7 @@ class MyGoogleMap extends Component {
     _onClick = (value) => {
         this.setState({
             lat: value.lat,
-            lng: value.lng
+            lng: value.lng,
         });
     }
 
@@ -161,10 +161,7 @@ class MyGoogleMap extends Component {
                 <div className="info-wrapper">
                     <div className="map-details">Latitude: <span>{this.state.lat}</span>, Longitude: <span>{this.state.lng}</span></div>
                     <div className="map-details">Zoom: <span>{this.state.zoom}</span></div>
-                    <div className="map-details">Address: <span>{this.state.address}</span></div>
                 </div>
-
-
             </Wrapper >
         );
     }
