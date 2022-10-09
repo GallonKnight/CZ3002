@@ -7,7 +7,7 @@
    "categories": "gardens",
    "rating": 4.5,
    "Address": "18 Marina Gardens Dr",
-   "Postal Code": 18953,
+   "PostalCode": 18953,
    "latitude": 1.281955743,
    "longitude": 103.8638905,
    "Number": 6564206848
@@ -20,7 +20,7 @@
    "categories": "gardens",
    "rating": 4.5,
    "Address": "1 Cluny Rd",
-   "Postal Code": 259569,
+   "PostalCode": 259569,
    "latitude": 1.319349186,
    "longitude": 103.8147259,
    "Number": 6564717138
@@ -33,7 +33,7 @@
    "categories": "hainan",
    "rating": 4,
    "Address": "1 Kadayanallur St",
-   "Postal Code": 69120,
+   "PostalCode": 69120,
    "latitude": 1.28035,
    "longitude": 103.84472,
    "Number": 6596914852
@@ -46,7 +46,7 @@
    "categories": "zoos",
    "rating": 4.5,
    "Address": "80 Mandai Lake Rd",
-   "Postal Code": 729826,
+   "PostalCode": 729826,
    "latitude": 1.404357,
    "longitude": 103.793023,
    "Number": 6562693411
@@ -59,7 +59,7 @@
    "categories": "taiwanese",
    "rating": 4.5,
    "Address": "435 Orchard Rd",
-   "Postal Code": 238877,
+   "PostalCode": 238877,
    "latitude": 1.303999,
    "longitude": 103.83318,
    "Number": 6567321383
@@ -72,7 +72,7 @@
    "categories": "gardens",
    "rating": 5,
    "Address": "18 Marina Gardens Dr",
-   "Postal Code": 18953,
+   "PostalCode": 18953,
    "latitude": 1.28385239,
    "longitude": 103.8660581,
    "Number": 6564206848
@@ -85,7 +85,7 @@
    "categories": "singaporean",
    "rating": 4,
    "Address": "11 New Bridge Rd",
-   "Postal Code": 59383,
+   "PostalCode": 59383,
    "latitude": 1.28897,
    "longitude": 103.84774,
    "Number": 6565336128
@@ -98,7 +98,7 @@
    "categories": "breakfast_brunch",
    "rating": 4.5,
    "Address": "462 Crawford Ln",
-   "Postal Code": 190462,
+   "PostalCode": 190462,
    "latitude": 1.304534861,
    "longitude": 103.8610711,
    "Number": 6566480178
@@ -111,7 +111,7 @@
    "categories": "seafood",
    "rating": 4,
    "Address": "20 Upper Circular Road",
-   "Postal Code": 58416,
+   "PostalCode": 58416,
    "latitude": 1.288928737,
    "longitude": 103.8483739,
    "Number": 6565343435
@@ -124,7 +124,7 @@
    "categories": "bagels",
    "rating": 4.5,
    "Address": "16 Enggor St",
-   "Postal Code": 79717,
+   "PostalCode": 79717,
    "latitude": 1.274531225,
    "longitude": 103.8443831,
    "Number": 6569705033
@@ -137,7 +137,7 @@
    "categories": "coffeeroasteries",
    "rating": 4.5,
    "Address": "4 Everton Park",
-   "Postal Code": 80004,
+   "PostalCode": 80004,
    "latitude": 1.276809987,
    "longitude": 103.8399761,
    "Number": 6562202330
@@ -150,7 +150,7 @@
    "categories": "parks",
    "rating": 4,
    "Address": "70 Collyer Quay",
-   "Postal Code": 49213,
+   "PostalCode": 49213,
    "latitude": 1.286796407,
    "longitude": 103.8545092,
    "Number": 6567366622
@@ -163,7 +163,7 @@
    "categories": "chickenshop",
    "rating": 4.5,
    "Address": "1 Kadayanallur St",
-   "Postal Code": 69184,
+   "PostalCode": 69184,
    "latitude": 1.280415,
    "longitude": 103.844583,
    "Number": 6581376559
@@ -176,7 +176,7 @@
    "categories": "noodles",
    "rating": 4,
    "Address": "78 Smith St",
-   "Postal Code": 58972,
+   "PostalCode": 58972,
    "latitude": 1.28319,
    "longitude": 103.84296,
    "Number": 6562722000
@@ -189,7 +189,7 @@
    "categories": "singaporean",
    "rating": 4.5,
    "Address": "27 Jalan Berseh",
-   "Postal Code": 200027,
+   "PostalCode": 200027,
    "latitude": 1.306734036,
    "longitude": 103.8577724,
    "Number": null
@@ -202,7 +202,7 @@
    "categories": "tradamerican",
    "rating": 4.5,
    "Address": "2 Bayfront Ave",
-   "Postal Code": 18956,
+   "PostalCode": 18956,
    "latitude": 1.285331,
    "longitude": 103.8594397,
    "Number": 6566888517
@@ -215,7 +215,7 @@
    "categories": "hawkercentre",
    "rating": 4.5,
    "Address": "Block 51 Old Airport Rd",
-   "Postal Code": 390051,
+   "PostalCode": 390051,
    "latitude": 1.30817,
    "longitude": 103.8857,
    "Number": 6590812898
@@ -228,7 +228,7 @@
    "categories": "chinese",
    "rating": 4,
    "Address": "466 Crawford Lane",
-   "Postal Code": 190465,
+   "PostalCode": 190465,
    "latitude": 1.305307,
    "longitude": 103.862343,
    "Number": 6562927477
@@ -241,7 +241,7 @@
    "categories": "indpak",
    "rating": 4,
    "Address": "76-78 Serangoon Rd",
-   "Postal Code": 217981,
+   "PostalCode": 217981,
    "latitude": 1.30642,
    "longitude": 103.85192,
    "Number": 6562936980
@@ -254,7 +254,7 @@
    "categories": "chinese",
    "rating": 4.5,
    "Address": "133 New Bridge Rd",
-   "Postal Code": 59413,
+   "PostalCode": 59413,
    "latitude": 1.285099357,
    "longitude": 103.8446638,
    "Number": 6564431033
@@ -267,7 +267,7 @@
    "categories": "ramen",
    "rating": 4,
    "Address": "333A Orchard Rd",
-   "Postal Code": 238897,
+   "PostalCode": 238897,
    "latitude": 1.30199,
    "longitude": 103.836799,
    "Number": 6562352797
@@ -280,7 +280,7 @@
    "categories": "indpak",
    "rating": 4,
    "Address": "166 Serangoon Rd",
-   "Postal Code": 218050,
+   "PostalCode": 218050,
    "latitude": 1.3081,
    "longitude": 103.85305,
    "Number": 6562990300
@@ -293,7 +293,7 @@
    "categories": "indpak",
    "rating": 4,
    "Address": "697-699 North Bridge Rd",
-   "Postal Code": 198676,
+   "PostalCode": 198676,
    "latitude": 1.30223,
    "longitude": 103.85842,
    "Number": 6562987011
@@ -306,7 +306,7 @@
    "categories": "buddhist_temples",
    "rating": 4.5,
    "Address": "288 South Bridge Rd",
-   "Postal Code": 58840,
+   "PostalCode": 58840,
    "latitude": 1.28126,
    "longitude": 103.84464,
    "Number": 6562200220
@@ -319,7 +319,7 @@
    "categories": "mexican",
    "rating": 4,
    "Address": "36 Beach Rd",
-   "Postal Code": 189766,
+   "PostalCode": 189766,
    "latitude": 1.2959732,
    "longitude": 103.8561986,
    "Number": 6563856010
@@ -332,7 +332,7 @@
    "categories": "tradamerican",
    "rating": 4,
    "Address": "10 Bayfront Ave",
-   "Postal Code": 18956,
+   "PostalCode": 18956,
    "latitude": 1.283209,
    "longitude": 103.860502,
    "Number": 6566889955
@@ -345,7 +345,7 @@
    "categories": "ramen",
    "rating": 4.5,
    "Address": "6 Eu Tong Sen St",
-   "Postal Code": 59817,
+   "PostalCode": 59817,
    "latitude": 1.28796305,
    "longitude": 103.8460039,
    "Number": 6562240668
@@ -358,7 +358,7 @@
    "categories": "wine_bars",
    "rating": 4,
    "Address": "600 North Bridge Rd",
-   "Postal Code": 188778,
+   "PostalCode": 188778,
    "latitude": 1.3001868,
    "longitude": 103.8577002,
    "Number": 6563964466
@@ -371,7 +371,7 @@
    "categories": "cocktailbars",
    "rating": 5,
    "Address": "52 Amoy Street",
-   "Postal Code": 69878,
+   "PostalCode": 69878,
    "latitude": 1.28013,
    "longitude": 103.84674,
    "Number": null
@@ -384,7 +384,7 @@
    "categories": "bars",
    "rating": 4,
    "Address": "28 HongKong Street",
-   "Postal Code": 59667,
+   "PostalCode": 59667,
    "latitude": 1.287630876,
    "longitude": 103.8469577,
    "Number": 6583180328
@@ -397,7 +397,7 @@
    "categories": "singaporean",
    "rating": 4,
    "Address": "51 East Coast Rd",
-   "Postal Code": 428770,
+   "PostalCode": 428770,
    "latitude": 1.3051,
    "longitude": 103.90318,
    "Number": 6597328163
@@ -410,7 +410,7 @@
    "categories": "cantonese",
    "rating": 4,
    "Address": "335 Smith St",
-   "Postal Code": 50335,
+   "PostalCode": 50335,
    "latitude": 1.282594,
    "longitude": 103.84309,
    "Number": null
@@ -423,7 +423,7 @@
    "categories": "gardens",
    "rating": 4.5,
    "Address": "1 Cluny Rd",
-   "Postal Code": 259569,
+   "PostalCode": 259569,
    "latitude": 1.311716,
    "longitude": 103.814891,
    "Number": null
@@ -436,7 +436,7 @@
    "categories": "icecream",
    "rating": 4.5,
    "Address": "51 Middle Road",
-   "Postal Code": 188959,
+   "PostalCode": 188959,
    "latitude": 1.2972901,
    "longitude": 103.8552318,
    "Number": null
@@ -449,7 +449,7 @@
    "categories": "coffeeroasteries",
    "rating": 4,
    "Address": "22 Martin Rd",
-   "Postal Code": 235098,
+   "PostalCode": 235098,
    "latitude": 1.29186,
    "longitude": 103.83842,
    "Number": 6568364695
@@ -462,7 +462,7 @@
    "categories": "chickenshop",
    "rating": 4.5,
    "Address": "101 Thomson Rd",
-   "Postal Code": 307591,
+   "PostalCode": 307591,
    "latitude": 1.317058,
    "longitude": 103.843868,
    "Number": 6562556396
@@ -475,7 +475,7 @@
    "categories": "museums",
    "rating": 4,
    "Address": "6 Bayfront Ave",
-   "Postal Code": 18974,
+   "PostalCode": 18974,
    "latitude": 1.2862737,
    "longitude": 103.8592661,
    "Number": 6566888868
@@ -488,7 +488,7 @@
    "categories": "sushi",
    "rating": 4.5,
    "Address": "14 Scotts Rd",
-   "Postal Code": 228213,
+   "PostalCode": 228213,
    "latitude": 1.30691,
    "longitude": 103.83354,
    "Number": 6596536464
@@ -501,7 +501,7 @@
    "categories": "aquariums",
    "rating": 4.5,
    "Address": "24 Sentosa Gateway",
-   "Postal Code": 98137,
+   "PostalCode": 98137,
    "latitude": 1.2567299,
    "longitude": 103.8237,
    "Number": null
@@ -514,7 +514,7 @@
    "categories": "bars",
    "rating": 4,
    "Address": "161 Middle Rd",
-   "Postal Code": 188977,
+   "PostalCode": 188977,
    "latitude": 1.299550953,
    "longitude": 103.8520153,
    "Number": 6563366949
@@ -527,7 +527,7 @@
    "categories": "dimsum",
    "rating": 4,
    "Address": "183/185/187/189/191/193 Jalan Besar",
-   "Postal Code": 208882,
+   "PostalCode": 208882,
    "latitude": 1.308131166,
    "longitude": 103.8568643,
    "Number": 6562257788
@@ -540,7 +540,7 @@
    "categories": "shanghainese",
    "rating": 4,
    "Address": "8a Marina Boulevard",
-   "Postal Code": 18981,
+   "PostalCode": 18981,
    "latitude": 1.2807892,
    "longitude": 103.8535862,
    "Number": 6566347877
@@ -553,7 +553,7 @@
    "categories": "shanghainese",
    "rating": 4,
    "Address": "252 North Bridge Road",
-   "Postal Code": 179103,
+   "PostalCode": 179103,
    "latitude": 1.293975452,
    "longitude": 103.8541749,
    "Number": 6563366369
@@ -566,7 +566,7 @@
    "categories": "french",
    "rating": 4,
    "Address": "5 Purvis St",
-   "Postal Code": 188584,
+   "PostalCode": 188584,
    "latitude": 1.29695,
    "longitude": 103.8550491,
    "Number": 6563333121
@@ -579,7 +579,7 @@
    "categories": "asianfusion",
    "rating": 4.5,
    "Address": "1 St Andrew's Rd",
-   "Postal Code": 178957,
+   "PostalCode": 178957,
    "latitude": 1.290618,
    "longitude": 103.851938,
    "Number": 6598349935
@@ -592,7 +592,7 @@
    "categories": "tapasmallplates",
    "rating": 4.5,
    "Address": "40 Hongkong Street",
-   "Postal Code": 59679,
+   "PostalCode": 59679,
    "latitude": 1.28731,
    "longitude": 103.84742,
    "Number": 6561004040
@@ -605,7 +605,7 @@
    "categories": "seafood",
    "rating": 4,
    "Address": "25 Dempsey Road",
-   "Postal Code": 249670,
+   "PostalCode": 249670,
    "latitude": 1.30602,
    "longitude": 103.81196,
    "Number": 6563232222
@@ -618,7 +618,7 @@
    "categories": "breakfast_brunch",
    "rating": 5,
    "Address": "103 Irrawaddy Rd",
-   "Postal Code": 329566,
+   "PostalCode": 329566,
    "latitude": 1.32059,
    "longitude": 103.84322,
    "Number": 6562516601
@@ -631,7 +631,7 @@
    "categories": "chickenshop",
    "rating": 4.5,
    "Address": "14 Scotts Rd",
-   "Postal Code": 228213,
+   "PostalCode": 228213,
    "latitude": 1.306978987,
    "longitude": 103.8332463,
    "Number": 6567340639
@@ -644,7 +644,7 @@
    "categories": "beerbar",
    "rating": 4.5,
    "Address": "2 Science Park Dr",
-   "Postal Code": 118222,
+   "PostalCode": 118222,
    "latitude": 1.291760601,
    "longitude": 103.7840655,
    "Number": 6594302750
@@ -657,7 +657,7 @@
    "categories": "cocktailbars",
    "rating": 4.5,
    "Address": "55/57A Haji Lane",
-   "Postal Code": 189248,
+   "PostalCode": 189248,
    "latitude": 1.30126,
    "longitude": 103.8586807,
    "Number": 6562980838
@@ -670,7 +670,7 @@
    "categories": "dimsum",
    "rating": 4.5,
    "Address": "2 Orchard Turn",
-   "Postal Code": 238801,
+   "PostalCode": 238801,
    "latitude": 1.304235,
    "longitude": 103.832011,
    "Number": 6565099660
@@ -683,7 +683,7 @@
    "categories": "modern_european",
    "rating": 4.5,
    "Address": "1 Cluny Rd",
-   "Postal Code": 259569,
+   "PostalCode": 259569,
    "latitude": 1.315144248,
    "longitude": 103.8153747,
    "Number": 6564691000
@@ -696,7 +696,7 @@
    "categories": "landmarks",
    "rating": 4,
    "Address": "New Bridge Rd",
-   "Postal Code": 50336,
+   "PostalCode": 50336,
    "latitude": 1.28816,
    "longitude": 103.846817,
    "Number": null
@@ -709,7 +709,7 @@
    "categories": "beerbar",
    "rating": 5,
    "Address": "335 Smith St",
-   "Postal Code": 50335,
+   "PostalCode": 50335,
    "latitude": 1.282573,
    "longitude": 103.843098,
    "Number": 6594302750
@@ -722,7 +722,7 @@
    "categories": "chinese",
    "rating": 4,
    "Address": "10 Scotts Rd",
-   "Postal Code": 228211,
+   "PostalCode": 228211,
    "latitude": 1.3064382,
    "longitude": 103.83333,
    "Number": 6567381234
@@ -735,7 +735,7 @@
    "categories": "lounges",
    "rating": 4.5,
    "Address": "9 Bras Basah Rd",
-   "Postal Code": 189559,
+   "PostalCode": 189559,
    "latitude": 1.2984927,
    "longitude": 103.8492521,
    "Number": 6563372201
@@ -748,7 +748,7 @@
    "categories": "museums",
    "rating": 4,
    "Address": "93 Stamford Rd",
-   "Postal Code": 178897,
+   "PostalCode": 178897,
    "latitude": 1.29682,
    "longitude": 103.8487701,
    "Number": 6563323659
@@ -761,7 +761,7 @@
    "categories": "cocktailbars",
    "rating": 4,
    "Address": "1st Floor",
-   "Postal Code": 198885,
+   "PostalCode": 198885,
    "latitude": 1.3022606,
    "longitude": 103.8596118,
    "Number": 6562940078
@@ -774,7 +774,7 @@
    "categories": "seafood",
    "rating": 4,
    "Address": "Blk 1206 East Coast Parkway",
-   "Postal Code": 449883,
+   "PostalCode": 449883,
    "latitude": 1.30532,
    "longitude": 103.93064,
    "Number": 6564423435
@@ -787,7 +787,7 @@
    "categories": "indpak",
    "rating": 4.5,
    "Address": "438 Serangoon Rd",
-   "Postal Code": 218133,
+   "PostalCode": 218133,
    "latitude": 1.31291,
    "longitude": 103.85648,
    "Number": 6562965800
@@ -800,7 +800,7 @@
    "categories": "french",
    "rating": 4.5,
    "Address": "1 Saint Andrew's Rd",
-   "Postal Code": 178957,
+   "PostalCode": 178957,
    "latitude": 1.289744,
    "longitude": 103.851438,
    "Number": 6563850498
@@ -813,7 +813,7 @@
    "categories": "cocktailbars",
    "rating": 4.5,
    "Address": "7 Ann Siang Hill",
-   "Postal Code": 69689,
+   "PostalCode": 69689,
    "latitude": 1.2815,
    "longitude": 103.8457565,
    "Number": 6564384057
@@ -826,7 +826,7 @@
    "categories": "japanese",
    "rating": 5,
    "Address": "1 Keong Saik Rd",
-   "Postal Code": 89109,
+   "PostalCode": 89109,
    "latitude": 1.27908,
    "longitude": 103.84139,
    "Number": 6562220678
@@ -839,7 +839,7 @@
    "categories": "cafes",
    "rating": 4,
    "Address": "56 Eng Hoon St",
-   "Postal Code": 160056,
+   "PostalCode": 160056,
    "latitude": 1.28428,
    "longitude": 103.83383,
    "Number": 6562203430
@@ -852,7 +852,7 @@
    "categories": "shanghainese",
    "rating": 4.5,
    "Address": "Blk 335 Smith St",
-   "Postal Code": 51335,
+   "PostalCode": 51335,
    "latitude": 1.28218,
    "longitude": 103.84317,
    "Number": null
@@ -865,7 +865,7 @@
    "categories": "breakfast_brunch",
    "rating": 4,
    "Address": "67 Killiney Road",
-   "Postal Code": 239525,
+   "PostalCode": 239525,
    "latitude": 1.29888,
    "longitude": 103.8394012,
    "Number": 6567349648
@@ -878,7 +878,7 @@
    "categories": "indpak",
    "rating": 4.5,
    "Address": "7 Raffles Avenue",
-   "Postal Code": 39799,
+   "PostalCode": 39799,
    "latitude": 1.29047,
    "longitude": 103.86005,
    "Number": 6564345288
@@ -891,7 +891,7 @@
    "categories": "hotpot",
    "rating": 4,
    "Address": "3D River Valley Rd",
-   "Postal Code": 179023,
+   "PostalCode": 179023,
    "latitude": 1.289833,
    "longitude": 103.845535,
    "Number": 6563378626
@@ -904,7 +904,7 @@
    "categories": "dimsum",
    "rating": 4.5,
    "Address": "1 Raffles Link",
-   "Postal Code": 39393,
+   "PostalCode": 39393,
    "latitude": 1.291329,
    "longitude": 103.855213,
    "Number": 6562222000
@@ -917,7 +917,7 @@
    "categories": "tradamerican",
    "rating": 4,
    "Address": "31 Purvis St",
-   "Postal Code": 188608,
+   "PostalCode": 188608,
    "latitude": 1.296450419,
    "longitude": 103.8551512,
    "Number": 6566844845
@@ -930,7 +930,7 @@
    "categories": "singaporean",
    "rating": 4,
    "Address": "18 China Street",
-   "Postal Code": 49560,
+   "PostalCode": 49560,
    "latitude": 1.28298,
    "longitude": 103.84784,
    "Number": 6564383638
@@ -943,7 +943,7 @@
    "categories": "seafood",
    "rating": 3.5,
    "Address": "30 Merchant Rd",
-   "Postal Code": 58282,
+   "PostalCode": 58282,
    "latitude": 1.289014,
    "longitude": 103.844723,
    "Number": 6565323435
@@ -956,7 +956,7 @@
    "categories": "french",
    "rating": 4.5,
    "Address": "2 Stamford Rd",
-   "Postal Code": 178882,
+   "PostalCode": 178882,
    "latitude": 1.29317,
    "longitude": 103.853353,
    "Number": 6564315670
@@ -969,7 +969,7 @@
    "categories": "ramen",
    "rating": 4,
    "Address": "1 Tras Link",
-   "Postal Code": 78867,
+   "PostalCode": 78867,
    "latitude": 1.276969084,
    "longitude": 103.8439,
    "Number": 6566360855
@@ -982,7 +982,7 @@
    "categories": "seafood",
    "rating": 4,
    "Address": "232 Ang Mo Kio Avenue 3",
-   "Postal Code": 560232,
+   "PostalCode": 560232,
    "latitude": 1.3683399,
    "longitude": 103.83722,
    "Number": 6562856762
@@ -995,7 +995,7 @@
    "categories": "desserts",
    "rating": 4.5,
    "Address": "1 Kadayanallur St",
-   "Postal Code": 69184,
+   "PostalCode": 69184,
    "latitude": 1.280199262,
    "longitude": 103.8448614,
    "Number": 6582998211
@@ -1008,7 +1008,7 @@
    "categories": "zoos",
    "rating": 3.5,
    "Address": "80 Mandai Lake Rd",
-   "Postal Code": 729826,
+   "PostalCode": 729826,
    "latitude": 1.402185,
    "longitude": 103.788056,
    "Number": 6562693411
@@ -1021,7 +1021,7 @@
    "categories": "coffee",
    "rating": 3.5,
    "Address": "150 Tyrwhitt Rd",
-   "Postal Code": 207563,
+   "PostalCode": 207563,
    "latitude": 1.31149405,
    "longitude": 103.8602822,
    "Number": 6563960609
@@ -1034,7 +1034,7 @@
    "categories": "wine_bars",
    "rating": 3,
    "Address": "328 North Bridge Rd",
-   "Postal Code": 188719,
+   "PostalCode": 188719,
    "latitude": 1.2955861,
    "longitude": 103.8540165,
    "Number": 6564121816
@@ -1047,7 +1047,7 @@
    "categories": "landmarks",
    "rating": 4,
    "Address": "Bukit Timah Road  60",
-   "Postal Code": 229900,
+   "PostalCode": 229900,
    "latitude": 1.30686,
    "longitude": 103.84977,
    "Number": null
@@ -1060,7 +1060,7 @@
    "categories": "bakeries",
    "rating": 4,
    "Address": "285 South Bridge Rd",
-   "Postal Code": 58833,
+   "PostalCode": 58833,
    "latitude": 1.28156,
    "longitude": 103.84508,
    "Number": 6562230398
@@ -1073,7 +1073,7 @@
    "categories": "foodstands",
    "rating": 4.5,
    "Address": "7 Maxwell Rd",
-   "Postal Code": 69111,
+   "PostalCode": 69111,
    "latitude": 1.279114317,
    "longitude": 103.8468933,
    "Number": 6590276289
@@ -1086,7 +1086,7 @@
    "categories": "mediterranean",
    "rating": 4.5,
    "Address": "10 Dempsey Rd",
-   "Postal Code": 247700,
+   "PostalCode": 247700,
    "latitude": 1.30331,
    "longitude": 103.81041,
    "Number": 6568750872
@@ -1099,7 +1099,7 @@
    "categories": "artmuseums",
    "rating": 4,
    "Address": "1 St Andrew's Rd",
-   "Postal Code": 178957,
+   "PostalCode": 178957,
    "latitude": 1.28978,
    "longitude": 103.85121,
    "Number": 6566909400
@@ -1112,7 +1112,7 @@
    "categories": "bars",
    "rating": 3.5,
    "Address": "30 Merchant Rd",
-   "Postal Code": 58282,
+   "PostalCode": 58282,
    "latitude": 1.289578,
    "longitude": 103.844156,
    "Number": 6564387438
@@ -1125,7 +1125,7 @@
    "categories": "vietnamese",
    "rating": 4,
    "Address": "349 Beach Rd",
-   "Postal Code": 199570,
+   "PostalCode": 199570,
    "latitude": 1.301421743,
    "longitude": 103.8617018,
    "Number": 6562920018
@@ -1138,7 +1138,7 @@
    "categories": "modern_european",
    "rating": 4,
    "Address": "2 Bayfront Avenue",
-   "Postal Code": 18972,
+   "PostalCode": 18972,
    "latitude": 1.28192,
    "longitude": 103.8588333,
    "Number": 6566888525
@@ -1151,7 +1151,7 @@
    "categories": "asianfusion",
    "rating": 4.5,
    "Address": "2 Bayfront Ave",
-   "Postal Code": 18956,
+   "PostalCode": 18956,
    "latitude": 1.28192,
    "longitude": 103.85883,
    "Number": 6566888507
@@ -1164,7 +1164,7 @@
    "categories": "cocktailbars",
    "rating": 4,
    "Address": "1 Cuscaden Rd",
-   "Postal Code": 249715,
+   "PostalCode": 249715,
    "latitude": 1.304621,
    "longitude": 103.8248563,
    "Number": 6567253377
@@ -1177,7 +1177,7 @@
    "categories": "landmarks",
    "rating": 3.5,
    "Address": "30 Raffles Ave",
-   "Postal Code": 39803,
+   "PostalCode": 39803,
    "latitude": 1.28937223,
    "longitude": 103.8631868,
    "Number": 6563333311
@@ -1190,7 +1190,7 @@
    "categories": "modern_european",
    "rating": 4,
    "Address": "2 Orchard Turn",
-   "Postal Code": 238801,
+   "PostalCode": 238801,
    "latitude": 1.303754,
    "longitude": 103.831649,
    "Number": 6565925118
@@ -1203,7 +1203,7 @@
    "categories": "bars",
    "rating": 3.5,
    "Address": "1 Raffles Pl",
-   "Postal Code": 48616,
+   "PostalCode": 48616,
    "latitude": 1.28439,
    "longitude": 103.851056,
    "Number": 6564380410
@@ -1216,7 +1216,7 @@
    "categories": "bars",
    "rating": 4,
    "Address": "36 Keong Saik Road",
-   "Postal Code": 89143,
+   "PostalCode": 89143,
    "latitude": 1.28044,
    "longitude": 103.8417,
    "Number": 6563271939
@@ -1229,7 +1229,7 @@
    "categories": "soup",
    "rating": 4.5,
    "Address": "176 Orchard Rd",
-   "Postal Code": 238843,
+   "PostalCode": 238843,
    "latitude": 1.302407,
    "longitude": 103.839836,
    "Number": 6567348498
@@ -1242,7 +1242,7 @@
    "categories": "japanese",
    "rating": 4,
    "Address": "1 Orchard Boulevard",
-   "Postal Code": 248649,
+   "PostalCode": 248649,
    "latitude": 1.303152,
    "longitude": 103.823715,
    "Number": 6567350308
@@ -1255,7 +1255,7 @@
    "categories": "singaporean",
    "rating": 4.5,
    "Address": "531A Upper Cross St",
-   "Postal Code": 51531,
+   "PostalCode": 51531,
    "latitude": 1.285331,
    "longitude": 103.845857,
    "Number": 6598387619
@@ -1268,7 +1268,7 @@
    "categories": "indpak",
    "rating": 4,
    "Address": "238 Serangoon Rd",
-   "Postal Code": 218085,
+   "PostalCode": 218085,
    "latitude": 1.3096699,
    "longitude": 103.85401,
    "Number": 6562968949
@@ -1281,7 +1281,7 @@
    "categories": "desserts",
    "rating": 4,
    "Address": "No. 63 - 67 Temple Street",
-   "Postal Code": 58611,
+   "PostalCode": 58611,
    "latitude": 1.28326,
    "longitude": 103.8432799,
    "Number": 6562211156
@@ -1294,7 +1294,7 @@
    "categories": "ramen",
    "rating": 4,
    "Address": "100 Tras St",
-   "Postal Code": 79027,
+   "PostalCode": 79027,
    "latitude": 1.275296,
    "longitude": 103.843668,
    "Number": 6566046861
@@ -1307,7 +1307,7 @@
    "categories": "cafes",
    "rating": 4,
    "Address": "202 Telok Ayer Street",
-   "Postal Code": 68639,
+   "PostalCode": 68639,
    "latitude": 1.28016,
    "longitude": 103.8471,
    "Number": 6562222007
@@ -1320,7 +1320,7 @@
    "categories": "breakfast_brunch",
    "rating": 3.5,
    "Address": "6 Scotts Rd",
-   "Postal Code": 228209,
+   "PostalCode": 228209,
    "latitude": 1.305998,
    "longitude": 103.832965,
    "Number": 6566361816
@@ -1333,7 +1333,7 @@
    "categories": "chinese",
    "rating": 4.5,
    "Address": "534 Geylang Rd",
-   "Postal Code": 389490,
+   "PostalCode": 389490,
    "latitude": 1.313621478,
    "longitude": 103.8860156,
    "Number": 6567412418
@@ -1346,7 +1346,7 @@
    "categories": "japanese",
    "rating": 4,
    "Address": "1 Scotts Rd",
-   "Postal Code": 228208,
+   "PostalCode": 228208,
    "latitude": 1.305522561,
    "longitude": 103.8316142,
    "Number": 6563338015
@@ -1359,7 +1359,7 @@
    "categories": "food_court",
    "rating": 4,
    "Address": "2 Orchard Turn",
-   "Postal Code": 238801,
+   "PostalCode": 238801,
    "latitude": 1.304225,
    "longitude": 103.831498,
    "Number": 6565099198
@@ -1372,7 +1372,7 @@
    "categories": "gourmet",
    "rating": 3.5,
    "Address": "333A Orchard Road",
-   "Postal Code": 238897,
+   "PostalCode": 238897,
    "latitude": 1.30208,
    "longitude": 103.8364182,
    "Number": 6562353900
@@ -1385,7 +1385,7 @@
    "categories": "coffee",
    "rating": 4.5,
    "Address": "96 Rangoon Rd",
-   "Postal Code": 218375,
+   "PostalCode": 218375,
    "latitude": 1.314428,
    "longitude": 103.853973,
    "Number": 6586858488
@@ -1398,7 +1398,7 @@
    "categories": "japanese",
    "rating": 4.5,
    "Address": "5 Koek Rd",
-   "Postal Code": 228796,
+   "PostalCode": 228796,
    "latitude": 1.302,
    "longitude": 103.8407211,
    "Number": 6567342492
@@ -1411,7 +1411,7 @@
    "categories": "chinese",
    "rating": 4,
    "Address": "290 Orchard Rd",
-   "Postal Code": 238859,
+   "PostalCode": 238859,
    "latitude": 1.303533464,
    "longitude": 103.8356059,
    "Number": 6567327838
@@ -1424,7 +1424,7 @@
    "categories": "singaporean",
    "rating": 4.5,
    "Address": "2 Tan Quee Lan St",
-   "Postal Code": 188091,
+   "PostalCode": 188091,
    "latitude": 1.29807,
    "longitude": 103.85697,
    "Number": 6584442722
@@ -1437,7 +1437,7 @@
    "categories": "cafes",
    "rating": 3.5,
    "Address": "28B Harding Rd",
-   "Postal Code": 249549,
+   "PostalCode": 249549,
    "latitude": 1.30416,
    "longitude": 103.81104,
    "Number": 6564793343
@@ -1450,7 +1450,7 @@
    "categories": "bars",
    "rating": 4.5,
    "Address": "5 Emerald Hill Road",
-   "Postal Code": 229289,
+   "PostalCode": 229289,
    "latitude": 1.30182,
    "longitude": 103.8389282,
    "Number": 6567320818
@@ -1463,7 +1463,7 @@
    "categories": "seafood",
    "rating": 4,
    "Address": "11 Dempsey Rd",
-   "Postal Code": 249673,
+   "PostalCode": 249673,
    "latitude": 1.304357,
    "longitude": 103.810051,
    "Number": 6564793435
@@ -1476,7 +1476,7 @@
    "categories": "amusementparks",
    "rating": 4,
    "Address": "42 Imbiah Rd",
-   "Postal Code": 99701,
+   "PostalCode": 99701,
    "latitude": 1.25516,
    "longitude": 103.81763,
    "Number": 6563762432
@@ -1489,7 +1489,7 @@
    "categories": "wine_bars",
    "rating": 4,
    "Address": "52 Kandahar St",
-   "Postal Code": 198901,
+   "PostalCode": 198901,
    "latitude": 1.3017,
    "longitude": 103.85997,
    "Number": 6562925012
@@ -1502,7 +1502,7 @@
    "categories": "bars",
    "rating": 4.5,
    "Address": "38 Tanjong Pagar Road",
-   "Postal Code": 88461,
+   "PostalCode": 88461,
    "latitude": 1.279497,
    "longitude": 103.8438709,
    "Number": 6564752217
@@ -1515,7 +1515,7 @@
    "categories": "coffee",
    "rating": 4,
    "Address": "268 South Bridge Road",
-   "Postal Code": 58817,
+   "PostalCode": 58817,
    "latitude": 1.28189,
    "longitude": 103.8448105,
    "Number": 6561003450
@@ -1528,7 +1528,7 @@
    "categories": "french",
    "rating": 4.5,
    "Address": "53 Armenian Street",
-   "Postal Code": 179940,
+   "PostalCode": 179940,
    "latitude": 1.29458,
    "longitude": 103.8495636,
    "Number": 6563331982
@@ -1541,7 +1541,7 @@
    "categories": "italian",
    "rating": 4,
    "Address": "49/50 Duxton Rd",
-   "Postal Code": 89514,
+   "PostalCode": 89514,
    "latitude": 1.278557,
    "longitude": 103.843372,
    "Number": 6562205513
@@ -1554,7 +1554,7 @@
    "categories": "mediterranean",
    "rating": 4.5,
    "Address": "3 Seng Poh Rd",
-   "Postal Code": 168891,
+   "PostalCode": 168891,
    "latitude": 1.285646402,
    "longitude": 103.8340522,
    "Number": 6568363688
@@ -1567,7 +1567,7 @@
    "categories": "cocktailbars",
    "rating": 4,
    "Address": "165 Tanjong Pagar Rd",
-   "Postal Code": 88539,
+   "PostalCode": 88539,
    "latitude": 1.2750316,
    "longitude": 103.8435506,
    "Number": 6596211074
@@ -1580,7 +1580,7 @@
    "categories": "parks",
    "rating": 4.5,
    "Address": "262 Pasir Panjang Rd",
-   "Postal Code": 118628,
+   "PostalCode": 118628,
    "latitude": 1.283718854,
    "longitude": 103.7817897,
    "Number": 6568722780
@@ -1593,7 +1593,7 @@
    "categories": "coffee",
    "rating": 4,
    "Address": "41 Beach Road",
-   "Postal Code": 189680,
+   "PostalCode": 189680,
    "latitude": 1.296118519,
    "longitude": 103.8559337,
    "Number": 6563339096
@@ -1606,7 +1606,7 @@
    "categories": "indpak",
    "rating": 4,
    "Address": "54 Race Course Rd",
-   "Postal Code": 218565,
+   "PostalCode": 218565,
    "latitude": 1.3083499,
    "longitude": 103.85102,
    "Number": 6562938682
@@ -1619,7 +1619,7 @@
    "categories": "coffee",
    "rating": 3.5,
    "Address": "8 Rodyk St",
-   "Postal Code": 238216,
+   "PostalCode": 238216,
    "latitude": 1.29038,
    "longitude": 103.83775,
    "Number": 6566367629
@@ -1632,7 +1632,7 @@
    "categories": "chinese",
    "rating": 4,
    "Address": "97 Tanjong Pagar Rd",
-   "Postal Code": 88518,
+   "PostalCode": 88518,
    "latitude": 1.27755202,
    "longitude": 103.8438,
    "Number": 6562223928
@@ -1645,7 +1645,7 @@
    "categories": "tapasmallplates",
    "rating": 4.5,
    "Address": "320 Orchard Rd",
-   "Postal Code": 238865,
+   "PostalCode": 238865,
    "latitude": 1.3051,
    "longitude": 103.83275,
    "Number": 6561007778
@@ -1658,7 +1658,7 @@
    "categories": "tea",
    "rating": 4.5,
    "Address": "2 Orchard Turn",
-   "Postal Code": 238801,
+   "PostalCode": 238801,
    "latitude": 1.30408,
    "longitude": 103.83181,
    "Number": 6567351837
@@ -1671,7 +1671,7 @@
    "categories": "localflavor",
    "rating": 4,
    "Address": "Haji Lane",
-   "Postal Code": 189201,
+   "PostalCode": 189201,
    "latitude": 1.3009,
    "longitude": 103.8589935,
    "Number": null
@@ -1684,7 +1684,7 @@
    "categories": "parks",
    "rating": 4.5,
    "Address": "Lornie Rd",
-   "Postal Code": 298694,
+   "PostalCode": 298694,
    "latitude": 1.344487755,
    "longitude": 103.8161002,
    "Number": null
@@ -1697,7 +1697,7 @@
    "categories": "icecream",
    "rating": 4,
    "Address": "131 Lorong 1 Toa Payoh",
-   "Postal Code": 310131,
+   "PostalCode": 310131,
    "latitude": 1.337900714,
    "longitude": 103.843339,
    "Number": 6562501476
@@ -1710,7 +1710,7 @@
    "categories": "chickenshop",
    "rating": 4.5,
    "Address": "865 Mountbatten Rd",
-   "Postal Code": 437844,
+   "PostalCode": 437844,
    "latitude": 1.304063,
    "longitude": 103.901223,
    "Number": 6597896073
@@ -1723,7 +1723,7 @@
    "categories": "foodstands",
    "rating": 4.5,
    "Address": "1 Kadayanallur St",
-   "Postal Code": 69184,
+   "PostalCode": 69184,
    "latitude": 1.2802419,
    "longitude": 103.8449058,
    "Number": null
@@ -1736,7 +1736,7 @@
    "categories": "icecream",
    "rating": 4,
    "Address": "44 Jalan Merah Saga",
-   "Postal Code": 278116,
+   "PostalCode": 278116,
    "latitude": 1.31197,
    "longitude": 103.797152,
    "Number": 6564799166
@@ -1749,7 +1749,7 @@
    "categories": "coffee",
    "rating": 3.5,
    "Address": "78 Yong Siak St",
-   "Postal Code": 163078,
+   "PostalCode": 163078,
    "latitude": 1.28261404,
    "longitude": 103.8302077,
    "Number": 6562258545
@@ -1762,7 +1762,7 @@
    "categories": "singaporean",
    "rating": 4.5,
    "Address": "30 Seng Poh Rd",
-   "Postal Code": 168898,
+   "PostalCode": 168898,
    "latitude": 1.284768,
    "longitude": 103.832378,
    "Number": 6590223037
@@ -1775,7 +1775,7 @@
    "categories": "hotpot",
    "rating": 4.5,
    "Address": "313 Orchard Road",
-   "Postal Code": 238895,
+   "PostalCode": 238895,
    "latitude": 1.300373148,
    "longitude": 103.8380782,
    "Number": 6568357227
@@ -1788,7 +1788,7 @@
    "categories": "italian",
    "rating": 4,
    "Address": "40 Duxton Hill",
-   "Postal Code": 89618,
+   "PostalCode": 89618,
    "latitude": 1.27859,
    "longitude": 103.8429031,
    "Number": 6568661988
@@ -1801,7 +1801,7 @@
    "categories": "museums",
    "rating": 4.5,
    "Address": "National Library Building",
-   "Postal Code": 188064,
+   "PostalCode": 188064,
    "latitude": 1.29785,
    "longitude": 103.85446,
    "Number": 6563323255
@@ -1814,7 +1814,7 @@
    "categories": "icecream",
    "rating": 4.5,
    "Address": "63 East Coast Rd",
-   "Postal Code": 428776,
+   "PostalCode": 428776,
    "latitude": 1.305147586,
    "longitude": 103.9035322,
    "Number": 6596786092
@@ -1827,7 +1827,7 @@
    "categories": "indpak",
    "rating": 4,
    "Address": "300 Joo Chiat Rd",
-   "Postal Code": 427551,
+   "PostalCode": 427551,
    "latitude": 1.309695688,
    "longitude": 103.9020619,
    "Number": 6597943124
@@ -1840,7 +1840,7 @@
    "categories": "japanese",
    "rating": 4,
    "Address": "1 Tras Link",
-   "Postal Code": 78867,
+   "PostalCode": 78867,
    "latitude": 1.277269417,
    "longitude": 103.8440716,
    "Number": 6562227363
@@ -1853,7 +1853,7 @@
    "categories": "nasilemak",
    "rating": 4,
    "Address": "28 Ann Siang Rd",
-   "Postal Code": 69708,
+   "PostalCode": 69708,
    "latitude": 1.2808,
    "longitude": 103.84577,
    "Number": 6566352999
@@ -1866,7 +1866,7 @@
    "categories": "cafes",
    "rating": 4.5,
    "Address": "118 Telok Ayer",
-   "Postal Code": 68587,
+   "PostalCode": 68587,
    "latitude": 1.281972503,
    "longitude": 103.84817,
    "Number": 6564381836
@@ -1879,7 +1879,7 @@
    "categories": "french",
    "rating": 4.5,
    "Address": "1 Scotts Rd",
-   "Postal Code": 228208,
+   "PostalCode": 228208,
    "latitude": 1.30613,
    "longitude": 103.83189,
    "Number": 6567332225
@@ -1892,7 +1892,7 @@
    "categories": "seafood",
    "rating": 3.5,
    "Address": "414 Geylang Rd",
-   "Postal Code": 389392,
+   "PostalCode": 389392,
    "latitude": 1.31298,
    "longitude": 103.883,
    "Number": 6568423415
@@ -1905,7 +1905,7 @@
    "categories": "french",
    "rating": 5,
    "Address": "3 Duxton Hill",
-   "Postal Code": 89589,
+   "PostalCode": 89589,
    "latitude": 1.27947,
    "longitude": 103.843071,
    "Number": 6581275001
@@ -1918,7 +1918,7 @@
    "categories": "persian",
    "rating": 4.5,
    "Address": "80 Mohammed Sultan Rd",
-   "Postal Code": 239013,
+   "PostalCode": 239013,
    "latitude": 1.290909203,
    "longitude": 103.8404525,
    "Number": 6568361270
@@ -1931,7 +1931,7 @@
    "categories": "british",
    "rating": 3.5,
    "Address": "2 Bayfront Ave",
-   "Postal Code": 18956,
+   "PostalCode": 18956,
    "latitude": 1.282635853,
    "longitude": 103.8576131,
    "Number": 6566885665
@@ -1944,7 +1944,7 @@
    "categories": "chinese",
    "rating": 4,
    "Address": "21 Neil Road",
-   "Postal Code": 88814,
+   "PostalCode": 88814,
    "latitude": 1.280112,
    "longitude": 103.843308,
    "Number": 6562213060
@@ -1957,7 +1957,7 @@
    "categories": "cocktailbars",
    "rating": 4.5,
    "Address": "2 Bukit Pasoh Road",
-   "Postal Code": 89816,
+   "PostalCode": 89816,
    "latitude": 1.278615516,
    "longitude": 103.8409805,
    "Number": 6581415741
@@ -1970,7 +1970,7 @@
    "categories": "lounges",
    "rating": 4,
    "Address": "30 Merchant Rd",
-   "Postal Code": 58282,
+   "PostalCode": 58282,
    "latitude": 1.289116695,
    "longitude": 103.8445737,
    "Number": 6562361275
@@ -1983,7 +1983,7 @@
    "categories": "modern_european",
    "rating": 4,
    "Address": "181 Orchard Rd",
-   "Postal Code": 238896,
+   "PostalCode": 238896,
    "latitude": 1.301571555,
    "longitude": 103.8388208,
    "Number": 6568386966
@@ -1996,7 +1996,7 @@
    "categories": "bars",
    "rating": 4.5,
    "Address": "118 Telok Ayer St",
-   "Postal Code": 68587,
+   "PostalCode": 68587,
    "latitude": 1.28194,
    "longitude": 103.8483276,
    "Number": 6564381836
@@ -2009,7 +2009,7 @@
    "categories": "japanese",
    "rating": 4,
    "Address": "313 Orchard Rd",
-   "Postal Code": 238895,
+   "PostalCode": 238895,
    "latitude": 1.301049914,
    "longitude": 103.8384089,
    "Number": 6567326884
@@ -2022,7 +2022,7 @@
    "categories": "danceclubs",
    "rating": 4,
    "Address": "3c River Valley Rd",
-   "Postal Code": 179022,
+   "PostalCode": 179022,
    "latitude": 1.290549819,
    "longitude": 103.8460805,
    "Number": 6567382988
@@ -2035,7 +2035,7 @@
    "categories": "artmuseums",
    "rating": 4,
    "Address": "1 Empress Pl",
-   "Postal Code": 179555,
+   "PostalCode": 179555,
    "latitude": 1.28755,
    "longitude": 103.85142,
    "Number": 6563327798
@@ -2048,7 +2048,7 @@
    "categories": "cafes",
    "rating": 4,
    "Address": "20 Martin Road",
-   "Postal Code": 239070,
+   "PostalCode": 239070,
    "latitude": 1.291267352,
    "longitude": 103.839024,
    "Number": 6568875430
@@ -2061,7 +2061,7 @@
    "categories": "lounges",
    "rating": 3,
    "Address": "1 Bayfront Avenue",
-   "Postal Code": 18971,
+   "PostalCode": 18971,
    "latitude": 1.284488238,
    "longitude": 103.861025,
    "Number": 6565082188
@@ -2074,7 +2074,7 @@
    "categories": "french",
    "rating": 4.5,
    "Address": "27 Seah St",
-   "Postal Code": 188383,
+   "PostalCode": 188383,
    "latitude": 1.296182555,
    "longitude": 103.8545473,
    "Number": 6563334671
@@ -2087,7 +2087,7 @@
    "categories": "asianfusion",
    "rating": 3.5,
    "Address": "333 Orchard Road",
-   "Postal Code": 238867,
+   "PostalCode": 238867,
    "latitude": 1.3021,
    "longitude": 103.83665,
    "Number": 6568316288
@@ -2100,7 +2100,7 @@
    "categories": "japanese",
    "rating": 5,
    "Address": "29 Scotts Road",
-   "Postal Code": 228224,
+   "PostalCode": 228224,
    "latitude": 1.3106171,
    "longitude": 103.8346936,
    "Number": 6567335251
@@ -2113,7 +2113,7 @@
    "categories": "indpak",
    "rating": 4,
    "Address": "31 Cuppage Rd",
-   "Postal Code": 229457,
+   "PostalCode": 229457,
    "latitude": 1.3018316,
    "longitude": 103.840196,
    "Number": 6562356133
@@ -2126,7 +2126,7 @@
    "categories": "mediterranean",
    "rating": 4,
    "Address": "22 Ann Siang Road",
-   "Postal Code": 69702,
+   "PostalCode": 69702,
    "latitude": 1.28099,
    "longitude": 103.8455734,
    "Number": 6564231228
@@ -2139,7 +2139,7 @@
    "categories": "coffee",
    "rating": 3.5,
    "Address": "49 Duxton Rd",
-   "Postal Code": 89513,
+   "PostalCode": 89513,
    "latitude": 1.27834,
    "longitude": 103.8434,
    "Number": 6562222554
@@ -2152,7 +2152,7 @@
    "categories": "dimsum",
    "rating": 3.5,
    "Address": "68 Orchard Rd",
-   "Postal Code": 238839,
+   "PostalCode": 238839,
    "latitude": 1.3006139,
    "longitude": 103.8451045,
    "Number": 6562512000
@@ -2165,7 +2165,7 @@
    "categories": "seafood",
    "rating": 3.5,
    "Address": "18 Marina Gardens Dr",
-   "Postal Code": 18952,
+   "PostalCode": 18952,
    "latitude": 1.28200334,
    "longitude": 103.8689706,
    "Number": 6564206848
@@ -2178,7 +2178,7 @@
    "categories": "hotdogs",
    "rating": 4,
    "Address": "810 Geylang Rd",
-   "Postal Code": 409286,
+   "PostalCode": 409286,
    "latitude": 1.315043089,
    "longitude": 103.8932759,
    "Number": 6567462372
@@ -2191,7 +2191,7 @@
    "categories": "french",
    "rating": 4.5,
    "Address": "36 Purvis St",
-   "Postal Code": 188613,
+   "PostalCode": 188613,
    "latitude": 1.29653,
    "longitude": 103.8549118,
    "Number": 6563388955
@@ -2204,7 +2204,7 @@
    "categories": "desserts",
    "rating": 3.5,
    "Address": "1 Liang Seah Street",
-   "Postal Code": 189022,
+   "PostalCode": 189022,
    "latitude": 1.29768,
    "longitude": 103.85657,
    "Number": 6563398198
@@ -2217,7 +2217,7 @@
    "categories": "indpak",
    "rating": 4,
    "Address": "81 Syed Alwi Rd",
-   "Postal Code": 207660,
+   "PostalCode": 207660,
    "latitude": 1.30892,
    "longitude": 103.85606,
    "Number": 6562980858
@@ -2230,7 +2230,7 @@
    "categories": "cafes",
    "rating": 4,
    "Address": "10 Sinaran Dr",
-   "Postal Code": 307506,
+   "PostalCode": 307506,
    "latitude": 1.3206513,
    "longitude": 103.8443689,
    "Number": 6563977165
@@ -2243,7 +2243,7 @@
    "categories": "thai",
    "rating": 4,
    "Address": "76 Peck Seah St",
-   "Postal Code": 79331,
+   "PostalCode": 79331,
    "latitude": 1.2772501,
    "longitude": 103.8446426,
    "Number": 6562216583
@@ -2256,7 +2256,7 @@
    "categories": "coffee",
    "rating": 4,
    "Address": "33-35-37 Kampong Bahru Rd",
-   "Postal Code": 169356,
+   "PostalCode": 169356,
    "latitude": 1.277,
    "longitude": 103.8363571,
    "Number": 6562224869
@@ -2269,7 +2269,7 @@
    "categories": "modern_european",
    "rating": 4.5,
    "Address": "269 Beach Rd",
-   "Postal Code": 199546,
+   "PostalCode": 199546,
    "latitude": 1.30061535,
    "longitude": 103.8601951,
    "Number": 6562980708
@@ -2282,7 +2282,7 @@
    "categories": "chickenshop",
    "rating": 4.5,
    "Address": "191 East Coast Rd",
-   "Postal Code": 428897,
+   "PostalCode": 428897,
    "latitude": 1.30717,
    "longitude": 103.90635,
    "Number": 6567775555
@@ -2295,7 +2295,7 @@
    "categories": "chinese",
    "rating": 4,
    "Address": "69 Seng Poh Lane",
-   "Postal Code": 160069,
+   "PostalCode": 160069,
    "latitude": 1.2842166,
    "longitude": 103.8327881,
    "Number": 6562210582
@@ -2308,7 +2308,7 @@
    "categories": "indpak",
    "rating": 3.5,
    "Address": "25 Dempsey Road",
-   "Postal Code": 249670,
+   "PostalCode": 249670,
    "latitude": 1.30602,
    "longitude": 103.8119583,
    "Number": 6564722080
@@ -2321,7 +2321,7 @@
    "categories": "food_court",
    "rating": 4,
    "Address": "435 Orchard Rd",
-   "Postal Code": 238877,
+   "PostalCode": 238877,
    "latitude": 1.30379,
    "longitude": 103.83319,
    "Number": 6567379881
@@ -2334,7 +2334,7 @@
    "categories": "coffee",
    "rating": 4,
    "Address": "9 Raffles Blvd",
-   "Postal Code": 39596,
+   "PostalCode": 39596,
    "latitude": 1.292364,
    "longitude": 103.859633,
    "Number": 6563387578
@@ -2347,7 +2347,7 @@
    "categories": "tradamerican",
    "rating": 4,
    "Address": "333A Orchard Rd",
-   "Postal Code": 238867,
+   "PostalCode": 238867,
    "latitude": 1.302218,
    "longitude": 103.836446,
    "Number": 6568363333
@@ -2360,7 +2360,7 @@
    "categories": "tradamerican",
    "rating": 4,
    "Address": "2 Bayfront Ave",
-   "Postal Code": 18972,
+   "PostalCode": 18972,
    "latitude": 1.2837366,
    "longitude": 103.8591923,
    "Number": 6566888868
@@ -2373,7 +2373,7 @@
    "categories": "seafood",
    "rating": 4,
    "Address": "22 Gemmill Ln",
-   "Postal Code": 69257,
+   "PostalCode": 69257,
    "latitude": 1.282205571,
    "longitude": 103.847274,
    "Number": 6562214468
@@ -2386,7 +2386,7 @@
    "categories": "seafood",
    "rating": 4.5,
    "Address": "39 Malan Rd",
-   "Postal Code": 109442,
+   "PostalCode": 109442,
    "latitude": 1.276325,
    "longitude": 103.804458,
    "Number": 6566940807
@@ -2399,7 +2399,7 @@
    "categories": "italian",
    "rating": 4.5,
    "Address": "1 Cuscaden Rd",
-   "Postal Code": 249715,
+   "PostalCode": 249715,
    "latitude": 1.3046549,
    "longitude": 103.8249313,
    "Number": 6567253232
@@ -2412,7 +2412,7 @@
    "categories": "indpak",
    "rating": 4.5,
    "Address": "24 Sin Ming Rd",
-   "Postal Code": 570024,
+   "PostalCode": 570024,
    "latitude": 1.3551822,
    "longitude": 103.8363207,
    "Number": 6564533893
@@ -2425,7 +2425,7 @@
    "categories": "seafood",
    "rating": 4,
    "Address": "220 Stadium Boulevard",
-   "Postal Code": 397803,
+   "PostalCode": 397803,
    "latitude": 1.30515,
    "longitude": 103.88251,
    "Number": 6563447722
@@ -2438,7 +2438,7 @@
    "categories": "foodstands",
    "rating": 4.5,
    "Address": "Boon Tat Street",
-   "Postal Code": 48582,
+   "PostalCode": 48582,
    "latitude": 1.2811571,
    "longitude": 103.8484061,
    "Number": null
@@ -2451,7 +2451,7 @@
    "categories": "cafes",
    "rating": 3.5,
    "Address": "136 Telok Ayer Street",
-   "Postal Code": 68601,
+   "PostalCode": 68601,
    "latitude": 1.281623537,
    "longitude": 103.8480077,
    "Number": 6562246091
@@ -2464,7 +2464,7 @@
    "categories": "japanese",
    "rating": 4,
    "Address": "66 Kampong Bugis",
-   "Postal Code": 338987,
+   "PostalCode": 338987,
    "latitude": 1.30612,
    "longitude": 103.866127,
    "Number": 6564673987
@@ -2477,7 +2477,7 @@
    "categories": "italian",
    "rating": 4.5,
    "Address": "1 Scotts Rd",
-   "Postal Code": 228208,
+   "PostalCode": 228208,
    "latitude": 1.306347554,
    "longitude": 103.8318952,
    "Number": 6567356656
@@ -2490,7 +2490,7 @@
    "categories": "cafes",
    "rating": 3.5,
    "Address": "9 One-North Gateway",
-   "Postal Code": 138643,
+   "PostalCode": 138643,
    "latitude": 1.30210038,
    "longitude": 103.790288,
    "Number": 6567778470
@@ -2503,7 +2503,7 @@
    "categories": "cafes",
    "rating": 4,
    "Address": "273 Holland Avenue",
-   "Postal Code": 278992,
+   "PostalCode": 278992,
    "latitude": 1.311832,
    "longitude": 103.795398,
    "Number": 6562199807
@@ -2516,7 +2516,7 @@
    "categories": "bbq",
    "rating": 4,
    "Address": "167/169 Telok Ayer",
-   "Postal Code": 68620,
+   "PostalCode": 68620,
    "latitude": 1.28017,
    "longitude": 103.8474899,
    "Number": 6562212262
@@ -2529,7 +2529,7 @@
    "categories": "chinese",
    "rating": 4.5,
    "Address": "Blk 105 Clementi St 12",
-   "Postal Code": 120105,
+   "PostalCode": 120105,
    "latitude": 1.322290697,
    "longitude": 103.7695743,
    "Number": 6567757348
@@ -2542,7 +2542,7 @@
    "categories": "beaches",
    "rating": 4.5,
    "Address": "1018 East Coast Parkway",
-   "Postal Code": 449877,
+   "PostalCode": 449877,
    "latitude": 1.30209,
    "longitude": 103.9157,
    "Number": 6564423590
@@ -2555,7 +2555,7 @@
    "categories": "coffee",
    "rating": 4,
    "Address": "146 Neil Rd",
-   "Postal Code": 88877,
+   "PostalCode": 88877,
    "latitude": 1.278201274,
    "longitude": 103.8408394,
    "Number": 6566358420
@@ -2568,7 +2568,7 @@
    "categories": "asianfusion",
    "rating": 4,
    "Address": "1 Cluny Road,",
-   "Postal Code": 259569,
+   "PostalCode": 259569,
    "latitude": 1.311359,
    "longitude": 103.814983,
    "Number": 6584441148
@@ -2581,7 +2581,7 @@
    "categories": "landmarks",
    "rating": 4.5,
    "Address": "10 Bayfront Ave",
-   "Postal Code": 18956,
+   "PostalCode": 18956,
    "latitude": 1.287675457,
    "longitude": 103.860594,
    "Number": null
@@ -2594,7 +2594,7 @@
    "categories": "coffee",
    "rating": 4,
    "Address": "100 Guillemard Rd",
-   "Postal Code": 399718,
+   "PostalCode": 399718,
    "latitude": 1.310077,
    "longitude": 103.881833,
    "Number": 6563480501
@@ -2607,7 +2607,7 @@
    "categories": "bars",
    "rating": 3.5,
    "Address": "96 Somerset Rd",
-   "Postal Code": 238163,
+   "PostalCode": 238163,
    "latitude": 1.300800017,
    "longitude": 103.8381851,
    "Number": 6562388348
@@ -2620,7 +2620,7 @@
    "categories": "bars",
    "rating": 4.5,
    "Address": "5 Fraser St",
-   "Postal Code": 189354,
+   "PostalCode": 189354,
    "latitude": 1.2992107,
    "longitude": 103.8577253,
    "Number": 6564081234
@@ -2633,7 +2633,7 @@
    "categories": "coffee",
    "rating": 5,
    "Address": "5 Dunlop St",
-   "Postal Code": 209335,
+   "PostalCode": 209335,
    "latitude": 1.30432,
    "longitude": 103.85409,
    "Number": 6590694569
@@ -2646,7 +2646,7 @@
    "categories": "amusementparks",
    "rating": 4,
    "Address": "8 Sentosa Gtwy",
-   "Postal Code": 98269,
+   "PostalCode": 98269,
    "latitude": 1.25594,
    "longitude": 103.8186874,
    "Number": 6562211694
@@ -2659,7 +2659,7 @@
    "categories": "bars",
    "rating": 4.5,
    "Address": "10 Scotts Rd",
-   "Postal Code": 228211,
+   "PostalCode": 228211,
    "latitude": 1.3064382,
    "longitude": 103.83333,
    "Number": 6567381234
@@ -2672,7 +2672,7 @@
    "categories": "korean",
    "rating": 4,
    "Address": "48 Tanjong Pagar Road",
-   "Postal Code": 88469,
+   "PostalCode": 88469,
    "latitude": 1.27663,
    "longitude": 103.84407,
    "Number": 6563271203
@@ -2685,7 +2685,7 @@
    "categories": "breakfast_brunch",
    "rating": 4.5,
    "Address": "30 Beach Rd",
-   "Postal Code": 189763,
+   "PostalCode": 189763,
    "latitude": 1.2947,
    "longitude": 103.85551,
    "Number": 6568181913
@@ -2698,7 +2698,7 @@
    "categories": "streetvendors",
    "rating": 4,
    "Address": "229 Jalan Besar",
-   "Postal Code": 208905,
+   "PostalCode": 208905,
    "latitude": 1.30944149,
    "longitude": 103.8578595,
    "Number": 6598261464
@@ -2711,7 +2711,7 @@
    "categories": "indpak",
    "rating": 4,
    "Address": "19 Upper Dickson Rd",
-   "Postal Code": 207478,
+   "PostalCode": 207478,
    "latitude": 1.306505802,
    "longitude": 103.8526506,
    "Number": 6563967769
@@ -2724,7 +2724,7 @@
    "categories": "cantonese",
    "rating": 4.5,
    "Address": "34 Whampoa West",
-   "Postal Code": 330034,
+   "PostalCode": 330034,
    "latitude": 1.32008,
    "longitude": 103.86256,
    "Number": 6562999880
@@ -2737,7 +2737,7 @@
    "categories": "japanese",
    "rating": 4,
    "Address": "2 Duxton Hill",
-   "Postal Code": 89588,
+   "PostalCode": 89588,
    "latitude": 1.27953,
    "longitude": 103.8431015,
    "Number": 6562238628
@@ -2750,7 +2750,7 @@
    "categories": "cafes",
    "rating": 3.5,
    "Address": "409 River Valley Rd",
-   "Postal Code": 248307,
+   "PostalCode": 248307,
    "latitude": 1.29536,
    "longitude": 103.82992,
    "Number": 6567349194
@@ -2763,7 +2763,7 @@
    "categories": "steak",
    "rating": 4,
    "Address": "25 Mohamed Sultan Rd",
-   "Postal Code": 238969,
+   "PostalCode": 238969,
    "latitude": 1.29346,
    "longitude": 103.8411865,
    "Number": 6567356739
@@ -2776,7 +2776,7 @@
    "categories": "asianfusion",
    "rating": 4,
    "Address": "Mezzanine Level",
-   "Postal Code": 228211,
+   "PostalCode": 228211,
    "latitude": 1.306516708,
    "longitude": 103.8329117,
    "Number": 6567321234
@@ -2789,7 +2789,7 @@
    "categories": "bars",
    "rating": 4,
    "Address": "112 Amoy St",
-   "Postal Code": 69932,
+   "PostalCode": 69932,
    "latitude": 1.28214,
    "longitude": 103.84752,
    "Number": 6562217357
@@ -2802,7 +2802,7 @@
    "categories": "taiwanese",
    "rating": 4.5,
    "Address": "3 Temasek Boulevard",
-   "Postal Code": 38983,
+   "PostalCode": 38983,
    "latitude": 1.293632472,
    "longitude": 103.8570572,
    "Number": 6563382422
@@ -2815,7 +2815,7 @@
    "categories": "ramen",
    "rating": 4,
    "Address": "583 Orchard Road",
-   "Postal Code": 238884,
+   "PostalCode": 238884,
    "latitude": 1.306690495,
    "longitude": 103.8286174,
    "Number": 6562351088
@@ -2828,7 +2828,7 @@
    "categories": "desserts",
    "rating": 4.5,
    "Address": "2 Orchard Turn",
-   "Postal Code": 238801,
+   "PostalCode": 238801,
    "latitude": 1.3040799,
    "longitude": 103.83181,
    "Number": null
@@ -2841,7 +2841,7 @@
    "categories": "japanese",
    "rating": 3.5,
    "Address": "2 Orchard Turn",
-   "Postal Code": 238801,
+   "PostalCode": 238801,
    "latitude": 1.304636,
    "longitude": 103.831341,
    "Number": 6565098911
@@ -2854,7 +2854,7 @@
    "categories": "japanese",
    "rating": 4,
    "Address": "5 Yong Siak St",
-   "Postal Code": 168643,
+   "PostalCode": 168643,
    "latitude": 1.2825899,
    "longitude": 103.83035,
    "Number": 6596632003
@@ -2867,7 +2867,7 @@
    "categories": "buffets",
    "rating": 4,
    "Address": "7 Raffles Boulevard",
-   "Postal Code": 39595,
+   "PostalCode": 39595,
    "latitude": 1.292157298,
    "longitude": 103.8583946,
    "Number": 6568268240
@@ -2880,7 +2880,7 @@
    "categories": "streetvendors",
    "rating": 4,
    "Address": "2 Short Street",
-   "Postal Code": 188211,
+   "PostalCode": 188211,
    "latitude": 1.301851,
    "longitude": 103.850252,
    "Number": 6567417358
@@ -2893,7 +2893,7 @@
    "categories": "korean",
    "rating": 4.5,
    "Address": "75 Tanjong Pagar Road",
-   "Postal Code": 88496,
+   "PostalCode": 88496,
    "latitude": 1.27882,
    "longitude": 103.8454208,
    "Number": 6562240504
@@ -2906,7 +2906,7 @@
    "categories": "spanish",
    "rating": 3.5,
    "Address": "16 Jiak Chuan Rd",
-   "Postal Code": 89267,
+   "PostalCode": 89267,
    "latitude": 1.27986,
    "longitude": 103.8420334,
    "Number": 6562221616
@@ -2919,7 +2919,7 @@
    "categories": "ramen",
    "rating": 4,
    "Address": "68 Orchard Rd",
-   "Postal Code": 238891,
+   "PostalCode": 238891,
    "latitude": 1.299821,
    "longitude": 103.845445,
    "Number": 6563365003
@@ -2932,7 +2932,7 @@
    "categories": "bars",
    "rating": 3.5,
    "Address": "39C Harding Rd",
-   "Postal Code": 249541,
+   "PostalCode": 249541,
    "latitude": 1.30441,
    "longitude": 103.81301,
    "Number": 6564739965
@@ -2945,7 +2945,7 @@
    "categories": "bars",
    "rating": 3.5,
    "Address": "21a Lorong Liput",
-   "Postal Code": 277733,
+   "PostalCode": 277733,
    "latitude": 1.31019,
    "longitude": 103.7948685,
    "Number": 6562919727
@@ -2958,7 +2958,7 @@
    "categories": "thai",
    "rating": 4.5,
    "Address": "9, Tan Quee Lan Street",
-   "Postal Code": 188098,
+   "PostalCode": 188098,
    "latitude": 1.2981813,
    "longitude": 103.8568767,
    "Number": 6562386833
@@ -2971,7 +2971,7 @@
    "categories": "bars",
    "rating": 3,
    "Address": "1 Bayfront Avenue",
-   "Postal Code": 18971,
+   "PostalCode": 18971,
    "latitude": 1.283373848,
    "longitude": 103.860616,
    "Number": 6565082188
@@ -2984,7 +2984,7 @@
    "categories": "steak",
    "rating": 4.5,
    "Address": "6 Raffles Blvd",
-   "Postal Code": 39594,
+   "PostalCode": 39594,
    "latitude": 1.29122,
    "longitude": 103.8578,
    "Number": 6563369093
@@ -2997,7 +2997,7 @@
    "categories": "chinese",
    "rating": 4,
    "Address": "208 Rangoon Road",
-   "Postal Code": 218453,
+   "PostalCode": 218453,
    "latitude": 1.31766,
    "longitude": 103.85291,
    "Number": 6562914537
@@ -3010,7 +3010,7 @@
    "categories": "vegetarian",
    "rating": 4,
    "Address": "282a South Bridge Rd",
-   "Postal Code": 58831,
+   "PostalCode": 58831,
    "latitude": 1.28155,
    "longitude": 103.8446732,
    "Number": 6565347727
@@ -3023,7 +3023,7 @@
    "categories": "brazilian",
    "rating": 4.5,
    "Address": "14/16 Sixth Ave",
-   "Postal Code": 276476,
+   "PostalCode": 276476,
    "latitude": 1.33084,
    "longitude": 103.79497,
    "Number": 6564631923
@@ -3036,7 +3036,7 @@
    "categories": "buffets",
    "rating": 4,
    "Address": "3 Temasek Blvd",
-   "Postal Code": 38983,
+   "PostalCode": 38983,
    "latitude": 1.2957108,
    "longitude": 103.8586488,
    "Number": 6564677003
@@ -3049,7 +3049,7 @@
    "categories": "noodles",
    "rating": 4,
    "Address": "243 Beach Road",
-   "Postal Code": 189754,
+   "PostalCode": 189754,
    "latitude": 1.300217446,
    "longitude": 103.8596324,
    "Number": 6563968464
@@ -3062,7 +3062,7 @@
    "categories": "japanese",
    "rating": 4,
    "Address": "238 Thomson Rd",
-   "Postal Code": 307683,
+   "PostalCode": 307683,
    "latitude": 1.319782,
    "longitude": 103.843661,
    "Number": 6562552355
@@ -3075,7 +3075,7 @@
    "categories": "cafes",
    "rating": 4,
    "Address": "881 Bukit Timah Road",
-   "Postal Code": 279893,
+   "PostalCode": 279893,
    "latitude": 1.33274,
    "longitude": 103.79106,
    "Number": 6564685430
@@ -3088,7 +3088,7 @@
    "categories": "tea",
    "rating": 3.5,
    "Address": "2 Bayfront Ave",
-   "Postal Code": 18972,
+   "PostalCode": 18972,
    "latitude": 1.28192,
    "longitude": 103.85883,
    "Number": 6565351837
@@ -3101,7 +3101,7 @@
    "categories": "seafood",
    "rating": 4,
    "Address": "124 Bukit Merah Lane 1",
-   "Postal Code": 150124,
+   "PostalCode": 150124,
    "latitude": 1.2860399,
    "longitude": 103.8034286,
    "Number": 6562721038
@@ -3114,7 +3114,7 @@
    "categories": "japanese",
    "rating": 4,
    "Address": "11 Unity Street",
-   "Postal Code": 237995,
+   "PostalCode": 237995,
    "latitude": 1.29216,
    "longitude": 103.84161,
    "Number": 6562352941
@@ -3127,7 +3127,7 @@
    "categories": "japanese",
    "rating": 4.5,
    "Address": "2 Handy Rd",
-   "Postal Code": 229233,
+   "PostalCode": 229233,
    "latitude": 1.299226821,
    "longitude": 103.8473833,
    "Number": 6567378772
@@ -3140,7 +3140,7 @@
    "categories": "chinese",
    "rating": 4.5,
    "Address": "391 Orchard Rd",
-   "Postal Code": 238874,
+   "PostalCode": 238874,
    "latitude": 1.302737497,
    "longitude": 103.834619,
    "Number": 6567381238
@@ -3153,7 +3153,7 @@
    "categories": "steak",
    "rating": 4.5,
    "Address": "260 Orchard Rd",
-   "Postal Code": 238855,
+   "PostalCode": 238855,
    "latitude": 1.302342722,
    "longitude": 103.8373668,
    "Number": 6567334813
@@ -3166,7 +3166,7 @@
    "categories": "italian",
    "rating": 4,
    "Address": "56 Tanglin Road",
-   "Postal Code": 247964,
+   "PostalCode": 247964,
    "latitude": 1.3058565,
    "longitude": 103.8253453,
    "Number": 6568844035
@@ -3179,7 +3179,7 @@
    "categories": "seafood",
    "rating": 4,
    "Address": "60 Robertson Quay",
-   "Postal Code": 238252,
+   "PostalCode": 238252,
    "latitude": 1.2903566,
    "longitude": 103.8394691,
    "Number": 6567357666
@@ -3192,7 +3192,7 @@
    "categories": "streetvendors",
    "rating": 4.5,
    "Address": "Boon Tat St",
-   "Postal Code": 69620,
+   "PostalCode": 69620,
    "latitude": 1.28022395,
    "longitude": 103.8500932,
    "Number": null
@@ -3205,7 +3205,7 @@
    "categories": "bakeries",
    "rating": 4,
    "Address": "19 Lorong Kilat",
-   "Postal Code": 598120,
+   "PostalCode": 598120,
    "latitude": 1.340831902,
    "longitude": 103.7735295,
    "Number": 6564633648
@@ -3218,7 +3218,7 @@
    "categories": "asianfusion",
    "rating": 3.5,
    "Address": "Block 17A Dempsey Rd",
-   "Postal Code": 249676,
+   "PostalCode": 249676,
    "latitude": 1.30572,
    "longitude": 103.8102,
    "Number": 18003042288
@@ -3231,7 +3231,7 @@
    "categories": "sushi",
    "rating": 3.5,
    "Address": "177 River Valley Rd",
-   "Postal Code": 179030,
+   "PostalCode": 179030,
    "latitude": 1.2914637,
    "longitude": 103.8442246,
    "Number": 6563371022
@@ -3244,7 +3244,7 @@
    "categories": "coffee",
    "rating": 4.5,
    "Address": "668 North Bridge Road",
-   "Postal Code": 188801,
+   "PostalCode": 188801,
    "latitude": 1.30151,
    "longitude": 103.8583069,
    "Number": 6562960339
@@ -3257,7 +3257,7 @@
    "categories": "bistros",
    "rating": 4.5,
    "Address": "21 Boon Tat St",
-   "Postal Code": 69620,
+   "PostalCode": 69620,
    "latitude": 1.281223731,
    "longitude": 103.8485973,
    "Number": 6562211911
@@ -3270,7 +3270,7 @@
    "categories": "restaurants",
    "rating": 4,
    "Address": "1 Harbourfront Walk",
-   "Postal Code": 98585,
+   "PostalCode": 98585,
    "latitude": 1.26431,
    "longitude": 103.8220673,
    "Number": 6563768226
@@ -3283,7 +3283,7 @@
    "categories": "chinese",
    "rating": 4.5,
    "Address": "370 East Coast Road",
-   "Postal Code": 428981,
+   "PostalCode": 428981,
    "latitude": 1.3085099,
    "longitude": 103.9110184,
    "Number": 6563457196
@@ -3296,7 +3296,7 @@
    "categories": "indpak",
    "rating": 4,
    "Address": "Blk 20, Havelock Road",
-   "Postal Code": 59765,
+   "PostalCode": 59765,
    "latitude": 1.28777,
    "longitude": 103.8435211,
    "Number": 6563399993
@@ -3309,7 +3309,7 @@
    "categories": "icecream",
    "rating": 4,
    "Address": "43 Jalan Merah Saga",
-   "Postal Code": 278115,
+   "PostalCode": 278115,
    "latitude": 1.310509601,
    "longitude": 103.7964249,
    "Number": 6564753128
@@ -3322,7 +3322,7 @@
    "categories": "zoos",
    "rating": 4,
    "Address": "80 Mandai Lake Road",
-   "Postal Code": 729826,
+   "PostalCode": 729826,
    "latitude": 1.402197094,
    "longitude": 103.7913453,
    "Number": 6562693411
@@ -3335,7 +3335,7 @@
    "categories": "coffee",
    "rating": 4,
    "Address": "6 Duke's Rd",
-   "Postal Code": 268886,
+   "PostalCode": 268886,
    "latitude": 1.3229,
    "longitude": 103.812,
    "Number": 6563142674
@@ -3348,7 +3348,7 @@
    "categories": "chinese",
    "rating": 4,
    "Address": "290 Orchard Road",
-   "Postal Code": 238859,
+   "PostalCode": 238859,
    "latitude": 1.30389,
    "longitude": 103.83583,
    "Number": 6567346866
@@ -3361,7 +3361,7 @@
    "categories": "coffee",
    "rating": 3.5,
    "Address": "7 Rodyk Street",
-   "Postal Code": 238215,
+   "PostalCode": 238215,
    "latitude": 1.28996,
    "longitude": 103.8379,
    "Number": 6563419407
@@ -3374,7 +3374,7 @@
    "categories": "chinese",
    "rating": 4,
    "Address": "347 Balestier Rd",
-   "Postal Code": 329777,
+   "PostalCode": 329777,
    "latitude": 1.3243,
    "longitude": 103.85102,
    "Number": 6563526192
@@ -3387,7 +3387,7 @@
    "categories": "cafes",
    "rating": 3.5,
    "Address": "78 Moh Guan Terrace",
-   "Postal Code": 162078,
+   "PostalCode": 162078,
    "latitude": 1.283576,
    "longitude": 103.830135,
    "Number": 6565363938
@@ -3400,7 +3400,7 @@
    "categories": "cafes",
    "rating": 4,
    "Address": "201 Victoria Street",
-   "Postal Code": 188067,
+   "PostalCode": 188067,
    "latitude": 1.299115,
    "longitude": 103.854173,
    "Number": 6568846817
@@ -3413,7 +3413,7 @@
    "categories": "italian",
    "rating": 3.5,
    "Address": "80 Bras Basah Rd",
-   "Postal Code": 189560,
+   "PostalCode": 189560,
    "latitude": 1.293827,
    "longitude": 103.854009,
    "Number": 6564316156
@@ -3426,7 +3426,7 @@
    "categories": "japanese",
    "rating": 4,
    "Address": "22 Scotts Rd",
-   "Postal Code": 228221,
+   "PostalCode": 228221,
    "latitude": 1.308289,
    "longitude": 103.834527,
    "Number": 6567371160
@@ -3439,7 +3439,7 @@
    "categories": "landmarks",
    "rating": 4,
    "Address": "30 Victoria Street",
-   "Postal Code": 187996,
+   "PostalCode": 187996,
    "latitude": 1.294800765,
    "longitude": 103.8519603,
    "Number": 6563377810
@@ -3452,7 +3452,7 @@
    "categories": "salad",
    "rating": 5,
    "Address": "38 Circular Rd",
-   "Postal Code": 49394,
+   "PostalCode": 49394,
    "latitude": 1.286635022,
    "longitude": 103.849263,
    "Number": 6593748449
@@ -3465,7 +3465,7 @@
    "categories": "bars",
    "rating": 4,
    "Address": "207 River Valley Rd",
-   "Postal Code": 238275,
+   "PostalCode": 238275,
    "latitude": 1.293141726,
    "longitude": 103.8418465,
    "Number": 6568875315
@@ -3478,7 +3478,7 @@
    "categories": "salad",
    "rating": 4,
    "Address": "1 Raffles Place",
-   "Postal Code": 48616,
+   "PostalCode": 48616,
    "latitude": 1.2839,
    "longitude": 103.851062,
    "Number": null
@@ -3491,7 +3491,7 @@
    "categories": "shanghainese",
    "rating": 4,
    "Address": "290 Orchard Rd",
-   "Postal Code": 238859,
+   "PostalCode": 238859,
    "latitude": 1.30394474,
    "longitude": 103.8351081,
    "Number": 6568368336
@@ -3504,7 +3504,7 @@
    "categories": "chinese",
    "rating": 5,
    "Address": "41A Cambridge Rd",
-   "Postal Code": 211041,
+   "PostalCode": 211041,
    "latitude": 1.316263,
    "longitude": 103.849928,
    "Number": null
@@ -3517,7 +3517,7 @@
    "categories": "buffets",
    "rating": 4,
    "Address": "5 Raffles Ave",
-   "Postal Code": 39797,
+   "PostalCode": 39797,
    "latitude": 1.290508047,
    "longitude": 103.8582224,
    "Number": 6568853500
@@ -3530,7 +3530,7 @@
    "categories": "tapasmallplates",
    "rating": 4,
    "Address": "1 Bayfront Ave",
-   "Postal Code": 18971,
+   "PostalCode": 18971,
    "latitude": 1.283299426,
    "longitude": 103.8605544,
    "Number": 6566885657
@@ -3543,7 +3543,7 @@
    "categories": "chinese",
    "rating": 3.5,
    "Address": "425 River Valley Rd",
-   "Postal Code": 248324,
+   "PostalCode": 248324,
    "latitude": 1.29512,
    "longitude": 103.82943,
    "Number": 6567363213
@@ -3556,7 +3556,7 @@
    "categories": "breakfast_brunch",
    "rating": 3.5,
    "Address": "93 Stamford Rd",
-   "Postal Code": 178897,
+   "PostalCode": 178897,
    "latitude": 1.296596,
    "longitude": 103.8485692,
    "Number": null
@@ -3569,7 +3569,7 @@
    "categories": "coffeeroasteries",
    "rating": 5,
    "Address": "170 Stirling Rd",
-   "Postal Code": 140170,
+   "PostalCode": 140170,
    "latitude": 1.29092,
    "longitude": 103.80308,
    "Number": 6564745442
@@ -3582,7 +3582,7 @@
    "categories": "breakfast_brunch",
    "rating": 4,
    "Address": "Bukit Timah Saddle Club",
-   "Postal Code": 286965,
+   "PostalCode": 286965,
    "latitude": 1.34302,
    "longitude": 103.79722,
    "Number": 6564669819
@@ -3595,7 +3595,7 @@
    "categories": "seafood",
    "rating": 3.5,
    "Address": "1 Fullerton Rd",
-   "Postal Code": 49213,
+   "PostalCode": 49213,
    "latitude": 1.28563,
    "longitude": 103.8539,
    "Number": 6563368118
@@ -3608,7 +3608,7 @@
    "categories": "bars",
    "rating": 4,
    "Address": "9 Emerald Hill Road",
-   "Postal Code": 229293,
+   "PostalCode": 229293,
    "latitude": 1.30192,
    "longitude": 103.83896,
    "Number": 6567359929
@@ -3621,7 +3621,7 @@
    "categories": "spanish",
    "rating": 4.5,
    "Address": "Craig Place",
-   "Postal Code": 89692,
+   "PostalCode": 89692,
    "latitude": 1.277666492,
    "longitude": 103.8420918,
    "Number": 6565570547
@@ -3634,7 +3634,7 @@
    "categories": "japanese",
    "rating": 4,
    "Address": "78 Moh Guan Terrace",
-   "Postal Code": 162078,
+   "PostalCode": 162078,
    "latitude": 1.283741,
    "longitude": 103.8304062,
    "Number": 6564384567
@@ -3647,7 +3647,7 @@
    "categories": "asianfusion",
    "rating": 4,
    "Address": "8 Raffles Ave",
-   "Postal Code": 39802,
+   "PostalCode": 39802,
    "latitude": 1.28986,
    "longitude": 103.85592,
    "Number": 6562234098
@@ -3660,7 +3660,7 @@
    "categories": "indpak",
    "rating": 4.5,
    "Address": "60 Race Course Road",
-   "Postal Code": 218567,
+   "PostalCode": 218567,
    "latitude": 1.30845,
    "longitude": 103.8511276,
    "Number": 6562562448
@@ -3673,7 +3673,7 @@
    "categories": "breakfast_brunch",
    "rating": 4,
    "Address": "52 Circular Rd",
-   "Postal Code": 49407,
+   "PostalCode": 49407,
    "latitude": 1.285832908,
    "longitude": 103.8496523,
    "Number": 6565364990
@@ -3686,7 +3686,7 @@
    "categories": "ramen",
    "rating": 3.5,
    "Address": "201 Victoria St",
-   "Postal Code": 188067,
+   "PostalCode": 188067,
    "latitude": 1.299735281,
    "longitude": 103.8542211,
    "Number": 6563391440
@@ -3699,7 +3699,7 @@
    "categories": "indpak",
    "rating": 5,
    "Address": "5 Boon Tat St",
-   "Postal Code": 69613,
+   "PostalCode": 69613,
    "latitude": 1.281167745,
    "longitude": 103.8484295,
    "Number": 6562233200
@@ -3712,7 +3712,7 @@
    "categories": "breweries",
    "rating": 4.5,
    "Address": "335 Smith St",
-   "Postal Code": 50335,
+   "PostalCode": 50335,
    "latitude": 1.28218,
    "longitude": 103.84317,
    "Number": 6587221230
@@ -3725,7 +3725,7 @@
    "categories": "taiwanese",
    "rating": 4.5,
    "Address": "180 Kitchener Rd",
-   "Postal Code": 208539,
+   "PostalCode": 208539,
    "latitude": 1.311442484,
    "longitude": 103.8566811,
    "Number": 6566342322
@@ -3738,7 +3738,7 @@
    "categories": "indonesian",
    "rating": 4,
    "Address": "17 Bussorah St",
-   "Postal Code": 199438,
+   "PostalCode": 199438,
    "latitude": 1.301243022,
    "longitude": 103.8599764,
    "Number": 6593859452
@@ -3751,7 +3751,7 @@
    "categories": "cupcakes",
    "rating": 4.5,
    "Address": "136 Bedok North Ave 3",
-   "Postal Code": 460136,
+   "PostalCode": 460136,
    "latitude": 1.328074737,
    "longitude": 103.9349247,
    "Number": 6582590316
@@ -3764,7 +3764,7 @@
    "categories": "cafes",
    "rating": 3.5,
    "Address": "390 Orchard Rd",
-   "Postal Code": 238871,
+   "PostalCode": 238871,
    "latitude": 1.306809,
    "longitude": 103.829511,
    "Number": 6568872207
@@ -3777,7 +3777,7 @@
    "categories": "asianfusion",
    "rating": 4,
    "Address": "30 Keong Saik Rd",
-   "Postal Code": 89137,
+   "PostalCode": 89137,
    "latitude": 1.28021,
    "longitude": 103.8416672,
    "Number": 6562232005
@@ -3790,7 +3790,7 @@
    "categories": "coffee",
    "rating": 4,
    "Address": "112 Telok Ayer Street",
-   "Postal Code": 68581,
+   "PostalCode": 68581,
    "latitude": 1.28205,
    "longitude": 103.8483887,
    "Number": null
@@ -3803,7 +3803,7 @@
    "categories": "international",
    "rating": 3.5,
    "Address": "313 Orchard Rd",
-   "Postal Code": 238895,
+   "PostalCode": 238895,
    "latitude": 1.30089,
    "longitude": 103.83843,
    "Number": 6568344041
@@ -3816,7 +3816,7 @@
    "categories": "coffee",
    "rating": 4.5,
    "Address": "41a Cambridge Road",
-   "Postal Code": 211041,
+   "PostalCode": 211041,
    "latitude": 1.315909042,
    "longitude": 103.8505771,
    "Number": null
@@ -3829,7 +3829,7 @@
    "categories": "cafes",
    "rating": 3.5,
    "Address": "The Foot Hills",
-   "Postal Code": 179037,
+   "PostalCode": 179037,
    "latitude": 1.291943,
    "longitude": 103.845239,
    "Number": 6566948336
@@ -3842,7 +3842,7 @@
    "categories": "parks",
    "rating": 5,
    "Address": "177 Hindhede Dr",
-   "Postal Code": 589333,
+   "PostalCode": 589333,
    "latitude": 1.348404,
    "longitude": 103.776699,
    "Number": 6564717361
@@ -3855,7 +3855,7 @@
    "categories": "desserts",
    "rating": 4.5,
    "Address": "51 Old Airport Rd",
-   "Postal Code": 390051,
+   "PostalCode": 390051,
    "latitude": 1.308258726,
    "longitude": 103.8858724,
    "Number": 6581812201
@@ -3868,7 +3868,7 @@
    "categories": "indpak",
    "rating": 4.5,
    "Address": "400 Balestier Road",
-   "Postal Code": 329802,
+   "PostalCode": 329802,
    "latitude": 1.32565,
    "longitude": 103.8504028,
    "Number": null
@@ -3881,7 +3881,7 @@
    "categories": "thai",
    "rating": 4,
    "Address": "212 Hougang Street 21",
-   "Postal Code": 530212,
+   "PostalCode": 530212,
    "latitude": 1.35963,
    "longitude": 103.8883972,
    "Number": 6562868785
@@ -3894,7 +3894,7 @@
    "categories": "tradamerican",
    "rating": 3.5,
    "Address": "5 Raffles Ave",
-   "Postal Code": 39797,
+   "PostalCode": 39797,
    "latitude": 1.2912,
    "longitude": 103.857576,
    "Number": 6563393740
@@ -3907,7 +3907,7 @@
    "categories": "asianfusion",
    "rating": 4,
    "Address": "70 Zion Rd",
-   "Postal Code": 247792,
+   "PostalCode": 247792,
    "latitude": 1.292586,
    "longitude": 103.831163,
    "Number": null
@@ -3920,7 +3920,7 @@
    "categories": "bars",
    "rating": 4,
    "Address": "36 Purvis St",
-   "Postal Code": 188613,
+   "PostalCode": 188613,
    "latitude": 1.296551498,
    "longitude": 103.8550471,
    "Number": 6568371468
@@ -3933,7 +3933,7 @@
    "categories": "seafood",
    "rating": 3.5,
    "Address": "34 Mosque Street",
-   "Postal Code": 59512,
+   "PostalCode": 59512,
    "latitude": 1.283887,
    "longitude": 103.845196,
    "Number": 6562252722
@@ -3946,7 +3946,7 @@
    "categories": "chicken_wings",
    "rating": 4,
    "Address": "313 Orchard Rd",
-   "Postal Code": 238895,
+   "PostalCode": 238895,
    "latitude": 1.301355,
    "longitude": 103.838294,
    "Number": 6565098364
@@ -3959,7 +3959,7 @@
    "categories": "parks",
    "rating": 5,
    "Address": "Ang Mo Kio Ave 1",
-   "Postal Code": 560338,
+   "PostalCode": 560338,
    "latitude": 1.361216097,
    "longitude": 103.8486365,
    "Number": null
@@ -3972,7 +3972,7 @@
    "categories": "tradamerican",
    "rating": 4.5,
    "Address": "20 Bukit Pasoh Rd",
-   "Postal Code": 89832,
+   "PostalCode": 89832,
    "latitude": 1.27913,
    "longitude": 103.8408199,
    "Number": 6567504461
@@ -3985,7 +3985,7 @@
    "categories": "coffee",
    "rating": 4,
    "Address": "185 Upper Thomson Rd",
-   "Postal Code": 574333,
+   "PostalCode": 574333,
    "latitude": 1.351442719,
    "longitude": 103.8354131,
    "Number": null
@@ -3998,7 +3998,7 @@
    "categories": "japanese",
    "rating": 3.5,
    "Address": "435 Orchard Road",
-   "Postal Code": 238877,
+   "PostalCode": 238877,
    "latitude": 1.303935542,
    "longitude": 103.8330239,
    "Number": 6591803805
@@ -4011,7 +4011,7 @@
    "categories": "bars",
    "rating": 4,
    "Address": "31 Lorong Mambong",
-   "Postal Code": 277689,
+   "PostalCode": 277689,
    "latitude": 1.31168,
    "longitude": 103.7944412,
    "Number": 6564624288
@@ -4024,7 +4024,7 @@
    "categories": "chinese",
    "rating": 4.5,
    "Address": "462 Upper East Coast Rd",
-   "Postal Code": 466508,
+   "PostalCode": 466508,
    "latitude": 1.3089499,
    "longitude": 103.9141617,
    "Number": 6564429313
@@ -4037,7 +4037,7 @@
    "categories": "italian",
    "rating": 4.5,
    "Address": "4 Hillview Rise Hill V2",
-   "Postal Code": 667979,
+   "PostalCode": 667979,
    "latitude": 1.362962442,
    "longitude": 103.7644064,
    "Number": 6567107150
@@ -4050,7 +4050,7 @@
    "categories": "taiwanese",
    "rating": 4,
    "Address": "133 New Bridge Rd",
-   "Postal Code": 59413,
+   "PostalCode": 59413,
    "latitude": 1.28516,
    "longitude": 103.8448499,
    "Number": 6565342722
@@ -4063,7 +4063,7 @@
    "categories": "bbq",
    "rating": 3.5,
    "Address": "73 Joo Chiat Pl",
-   "Postal Code": 427790,
+   "PostalCode": 427790,
    "latitude": 1.31373,
    "longitude": 103.90154,
    "Number": 6563456914
@@ -4076,7 +4076,7 @@
    "categories": "sushi",
    "rating": 4,
    "Address": "391B Orchard Rd",
-   "Postal Code": 238874,
+   "PostalCode": 238874,
    "latitude": 1.302586,
    "longitude": 103.835019,
    "Number": 6588183535
@@ -4089,7 +4089,7 @@
    "categories": "bakeries",
    "rating": 4,
    "Address": "310 Orchard Rd",
-   "Postal Code": 238864,
+   "PostalCode": 238864,
    "latitude": 1.304629,
    "longitude": 103.833353,
    "Number": 6567353787
@@ -4102,7 +4102,7 @@
    "categories": "mexican",
    "rating": 3.5,
    "Address": "15 Duxton Hill",
-   "Postal Code": 89598,
+   "PostalCode": 89598,
    "latitude": 1.278970824,
    "longitude": 103.8432071,
    "Number": 6562263938
@@ -4115,7 +4115,7 @@
    "categories": "bbq",
    "rating": 4,
    "Address": "60 Robertson Quay",
-   "Postal Code": 238252,
+   "PostalCode": 238252,
    "latitude": 1.289996091,
    "longitude": 103.8393263,
    "Number": null
@@ -4128,7 +4128,7 @@
    "categories": "japanese",
    "rating": 4,
    "Address": "260 Orchard Road, Robinsons Orchard",
-   "Postal Code": 238855,
+   "PostalCode": 238855,
    "latitude": 1.302959,
    "longitude": 103.837188,
    "Number": 6567375581
@@ -4141,7 +4141,7 @@
    "categories": "indpak",
    "rating": 4.5,
    "Address": "7 Raffles Blvd",
-   "Postal Code": 39595,
+   "PostalCode": 39595,
    "latitude": 1.29216,
    "longitude": 103.85899,
    "Number": 6563331788
@@ -4154,7 +4154,7 @@
    "categories": "cafes",
    "rating": 4,
    "Address": "1 Tras Link",
-   "Postal Code": 78867,
+   "PostalCode": 78867,
    "latitude": 1.276856042,
    "longitude": 103.843689,
    "Number": 6566364183
@@ -4167,7 +4167,7 @@
    "categories": "ramen",
    "rating": 5,
    "Address": "Orchid Hotel",
-   "Postal Code": 78867,
+   "PostalCode": 78867,
    "latitude": 1.276730586,
    "longitude": 103.8435442,
    "Number": 6566048891
@@ -4180,7 +4180,7 @@
    "categories": "cafes",
    "rating": 4,
    "Address": "80A Serangoon Garden Way",
-   "Postal Code": 555976,
+   "PostalCode": 555976,
    "latitude": 1.36435,
    "longitude": 103.8651299,
    "Number": 6562851278
@@ -4193,7 +4193,7 @@
    "categories": "cupcakes",
    "rating": 4.5,
    "Address": "4 Jalan Pisang",
-   "Postal Code": 199079,
+   "PostalCode": 199079,
    "latitude": 1.303051,
    "longitude": 103.858758,
    "Number": null
@@ -4206,7 +4206,7 @@
    "categories": "tradamerican",
    "rating": 3.5,
    "Address": "2 Keppel Bay Vista",
-   "Postal Code": 98382,
+   "PostalCode": 98382,
    "latitude": 1.26392,
    "longitude": 103.81249,
    "Number": 6567760777
@@ -4219,7 +4219,7 @@
    "categories": "desserts",
    "rating": 4.5,
    "Address": "84 Neil Rd",
-   "Postal Code": 88844,
+   "PostalCode": 88844,
    "latitude": 1.27965,
    "longitude": 103.84218,
    "Number": 6564937273
@@ -4232,7 +4232,7 @@
    "categories": "burgers",
    "rating": 4,
    "Address": "187 Upper Thomson Rd",
-   "Postal Code": 228213,
+   "PostalCode": 228213,
    "latitude": 1.306955053,
    "longitude": 103.8334775,
    "Number": 6567373315
@@ -4245,7 +4245,7 @@
    "categories": "desserts",
    "rating": 4,
    "Address": "24 Kandahar Street",
-   "Postal Code": 198887,
+   "PostalCode": 198887,
    "latitude": 1.302016797,
    "longitude": 103.8599405,
    "Number": 6569084089
@@ -4258,7 +4258,7 @@
    "categories": "thai",
    "rating": 4,
    "Address": "27A Lorong Liput",
-   "Postal Code": 277738,
+   "PostalCode": 277738,
    "latitude": 1.310311415,
    "longitude": 103.794988,
    "Number": 6564696862
@@ -4271,7 +4271,7 @@
    "categories": "coffee",
    "rating": 4.5,
    "Address": "18 Keong Saik Rd",
-   "Postal Code": 89125,
+   "PostalCode": 89125,
    "latitude": 1.27977,
    "longitude": 103.84152,
    "Number": 6565347800
@@ -4284,7 +4284,7 @@
    "categories": "ramen",
    "rating": 4,
    "Address": "253 Holland Ave",
-   "Postal Code": 278983,
+   "PostalCode": 278983,
    "latitude": 1.311343886,
    "longitude": 103.7957403,
    "Number": 6564637277
@@ -4297,7 +4297,7 @@
    "categories": "gardens",
    "rating": 4,
    "Address": "18 Marina Gardens Dr",
-   "Postal Code": 18953,
+   "PostalCode": 18953,
    "latitude": 1.284499466,
    "longitude": 103.8646565,
    "Number": 6564206848
@@ -4310,7 +4310,7 @@
    "categories": "korean",
    "rating": 4,
    "Address": "6 Eu Tong Sen Street",
-   "Postal Code": 59817,
+   "PostalCode": 59817,
    "latitude": 1.288706978,
    "longitude": 103.8466714,
    "Number": 6586921188
@@ -4323,7 +4323,7 @@
    "categories": "streetvendors",
    "rating": 4.5,
    "Address": "20 Ghim Moh Road",
-   "Postal Code": null,
+   "PostalCode": null,
    "latitude": 1.31111789,
    "longitude": 103.7884808,
    "Number": null
@@ -4336,7 +4336,7 @@
    "categories": "landmarks",
    "rating": 4,
    "Address": "8 Marina Gardens Drive",
-   "Postal Code": 18951,
+   "PostalCode": 18951,
    "latitude": 1.28052,
    "longitude": 103.87013,
    "Number": null
@@ -4349,7 +4349,7 @@
    "categories": "ramen",
    "rating": 3.5,
    "Address": "583 Orchard Rd",
-   "Postal Code": 238884,
+   "PostalCode": 238884,
    "latitude": 1.306326446,
    "longitude": 103.8286006,
    "Number": 6562350855
@@ -4362,7 +4362,7 @@
    "categories": "chinese",
    "rating": 3.5,
    "Address": "399, 401 & 403 Balestier Rd",
-   "Postal Code": 329801,
+   "PostalCode": 329801,
    "latitude": 1.325410359,
    "longitude": 103.8494525,
    "Number": 6562543937
@@ -4375,7 +4375,7 @@
    "categories": "bakeries",
    "rating": 4.5,
    "Address": "6 Scotts Rd",
-   "Postal Code": 228209,
+   "PostalCode": 228209,
    "latitude": 1.307377934,
    "longitude": 103.8324302,
    "Number": 6566363672
@@ -4388,7 +4388,7 @@
    "categories": "mexican",
    "rating": 3.5,
    "Address": "241 Beach Road",
-   "Postal Code": 189753,
+   "PostalCode": 189753,
    "latitude": 1.3001699,
    "longitude": 103.8595276,
    "Number": 6562911297
@@ -4401,7 +4401,7 @@
    "categories": "burgers",
    "rating": 4.5,
    "Address": "3 Temasek Boulevard",
-   "Postal Code": 38983,
+   "PostalCode": 38983,
    "latitude": 1.29500977,
    "longitude": 103.8587876,
    "Number": null
@@ -4414,7 +4414,7 @@
    "categories": "indpak",
    "rating": 3.5,
    "Address": "6 Upper Dickson Rd",
-   "Postal Code": 207466,
+   "PostalCode": 207466,
    "latitude": 1.306333013,
    "longitude": 103.8521385,
    "Number": 6562961215
@@ -4427,7 +4427,7 @@
    "categories": "tonkatsu",
    "rating": 3.5,
    "Address": "333A Orchard Rd",
-   "Postal Code": 238897,
+   "PostalCode": 238897,
    "latitude": 1.3021,
    "longitude": 103.83665,
    "Number": 6567334541
@@ -4440,7 +4440,7 @@
    "categories": "henghwa",
    "rating": 4,
    "Address": "127 Kitchener Rd",
-   "Postal Code": 208514,
+   "PostalCode": 208514,
    "latitude": 1.30954,
    "longitude": 103.8572998,
    "Number": 6562956358
@@ -4453,7 +4453,7 @@
    "categories": "wine_bars",
    "rating": 3.5,
    "Address": "45 Minden Road",
-   "Postal Code": 248817,
+   "PostalCode": 248817,
    "latitude": 1.30545,
    "longitude": 103.81555,
    "Number": 6564756088
@@ -4466,7 +4466,7 @@
    "categories": "asianfusion",
    "rating": 4.5,
    "Address": "30 Victoria St",
-   "Postal Code": 187996,
+   "PostalCode": 187996,
    "latitude": 1.294951911,
    "longitude": 103.8522102,
    "Number": 6568370142
@@ -4479,7 +4479,7 @@
    "categories": "dimsum",
    "rating": 4,
    "Address": "30 Victoria St",
-   "Postal Code": 187996,
+   "PostalCode": 187996,
    "latitude": 1.295327,
    "longitude": 103.852358,
    "Number": 6563393822
@@ -4492,7 +4492,7 @@
    "categories": "chinese",
    "rating": 4.5,
    "Address": "89 Marine Parade Central",
-   "Postal Code": 440089,
+   "PostalCode": 440089,
    "latitude": 1.30110071,
    "longitude": 103.9065677,
    "Number": 6564408205
@@ -4505,7 +4505,7 @@
    "categories": "wine_bars",
    "rating": 4.5,
    "Address": "4 Duxton Hill",
-   "Postal Code": 89590,
+   "PostalCode": 89590,
    "latitude": 1.27944,
    "longitude": 103.8430328,
    "Number": 6562385287
@@ -4518,7 +4518,7 @@
    "categories": "singaporean",
    "rating": 5,
    "Address": "685 Hougang Street 61",
-   "Postal Code": 530685,
+   "PostalCode": 530685,
    "latitude": 1.375019772,
    "longitude": 103.8858156,
    "Number": null
@@ -4531,7 +4531,7 @@
    "categories": "buffets",
    "rating": 3.5,
    "Address": "25 Scotts Rd",
-   "Postal Code": 228220,
+   "PostalCode": 228220,
    "latitude": 1.307033,
    "longitude": 103.832035,
    "Number": 6565897799
@@ -4544,7 +4544,7 @@
    "categories": "farmersmarket",
    "rating": 4.5,
    "Address": "6 Jalan Bukit Merah",
-   "Postal Code": 150006,
+   "PostalCode": 150006,
    "latitude": 1.28695,
    "longitude": 103.8081131,
    "Number": null
@@ -4557,7 +4557,7 @@
    "categories": "bakeries",
    "rating": 3.5,
    "Address": "252 North Bridge Road",
-   "Postal Code": 179103,
+   "PostalCode": 179103,
    "latitude": 1.294154363,
    "longitude": 103.8528338,
    "Number": 6563334160
@@ -4570,7 +4570,7 @@
    "categories": "australian",
    "rating": 3.5,
    "Address": "9 Jalan Kubor",
-   "Postal Code": 199206,
+   "PostalCode": 199206,
    "latitude": 1.30387,
    "longitude": 103.8592199,
    "Number": 6562919901
@@ -4583,7 +4583,7 @@
    "categories": "bars",
    "rating": 3.5,
    "Address": "56 Tanglin Rd",
-   "Postal Code": 247964,
+   "PostalCode": 247964,
    "latitude": 1.30596,
    "longitude": 103.82528,
    "Number": 6568351128
@@ -4596,7 +4596,7 @@
    "categories": "desserts",
    "rating": 4,
    "Address": "313 Orchard Rd",
-   "Postal Code": 238895,
+   "PostalCode": 238895,
    "latitude": 1.3012586,
    "longitude": 103.8385606,
    "Number": 6563330995
@@ -4609,7 +4609,7 @@
    "categories": "bars",
    "rating": 3.5,
    "Address": "1 Fullerton Rd",
-   "Postal Code": 49213,
+   "PostalCode": 49213,
    "latitude": 1.28563,
    "longitude": 103.8539,
    "Number": 6564230701
@@ -4622,7 +4622,7 @@
    "categories": "desserts",
    "rating": 4,
    "Address": "198 Telok Ayer St",
-   "Postal Code": 68637,
+   "PostalCode": 68637,
    "latitude": 1.2802,
    "longitude": 103.8473587,
    "Number": 6562216223
@@ -4635,7 +4635,7 @@
    "categories": "vietnamese",
    "rating": 3.5,
    "Address": "159 Joo Chiat Road",
-   "Postal Code": 427436,
+   "PostalCode": 427436,
    "latitude": 1.31275,
    "longitude": 103.90019,
    "Number": 6591058519
@@ -4648,7 +4648,7 @@
    "categories": "german",
    "rating": 4,
    "Address": "252 North Bridge Road",
-   "Postal Code": 179103,
+   "PostalCode": 179103,
    "latitude": 1.2946698,
    "longitude": 103.85303,
    "Number": 6568831534
@@ -4661,7 +4661,7 @@
    "categories": "japanese",
    "rating": 4.5,
    "Address": "91 Bencoolen Street",
-   "Postal Code": 189652,
+   "PostalCode": 189652,
    "latitude": 1.30054,
    "longitude": 103.85103,
    "Number": 6563377050
@@ -4674,7 +4674,7 @@
    "categories": "bistros",
    "rating": 3.5,
    "Address": "64 Prinsep Street",
-   "Postal Code": 188667,
+   "PostalCode": 188667,
    "latitude": 1.29969,
    "longitude": 103.850029,
    "Number": 6562381068
@@ -4687,7 +4687,7 @@
    "categories": "indpak",
    "rating": 3.5,
    "Address": "48 Serangoon Rd",
-   "Postal Code": 217959,
+   "PostalCode": 217959,
    "latitude": 1.30568,
    "longitude": 103.85152,
    "Number": 6563336111
@@ -4700,7 +4700,7 @@
    "categories": "pizza",
    "rating": 3.5,
    "Address": "78 Guan Chuan Street",
-   "Postal Code": 160078,
+   "PostalCode": 160078,
    "latitude": 1.28336,
    "longitude": 103.83098,
    "Number": 6592267088
@@ -4713,7 +4713,7 @@
    "categories": "bakeries",
    "rating": 4.5,
    "Address": "31/33 Mackenzie Rd",
-   "Postal Code": 228686,
+   "PostalCode": 228686,
    "latitude": 1.30468,
    "longitude": 103.84943,
    "Number": 6563372417
@@ -4726,7 +4726,7 @@
    "categories": "landmarks",
    "rating": 5,
    "Address": "45 Maxwell Rd",
-   "Postal Code": 18956,
+   "PostalCode": 18956,
    "latitude": 1.284810909,
    "longitude": 103.8565808,
    "Number": null
@@ -4739,7 +4739,7 @@
    "categories": "coffee",
    "rating": 4,
    "Address": "1 Shenton Way",
-   "Postal Code": 68803,
+   "PostalCode": 68803,
    "latitude": 1.27926,
    "longitude": 103.8504899,
    "Number": 6566369452
@@ -4752,7 +4752,7 @@
    "categories": "bars",
    "rating": 3.5,
    "Address": "80 Collyer Quay",
-   "Postal Code": 49326,
+   "PostalCode": 49326,
    "latitude": 1.28421,
    "longitude": 103.8533478,
    "Number": 6565975299
@@ -4765,7 +4765,7 @@
    "categories": "cantonese",
    "rating": 4.5,
    "Address": "273 Thomson Road",
-   "Postal Code": 307644,
+   "PostalCode": 307644,
    "latitude": 1.320343886,
    "longitude": 103.8421825,
    "Number": 6562523132
@@ -4778,7 +4778,7 @@
    "categories": "dimsum",
    "rating": 4,
    "Address": "1 Harbourfront Walk",
-   "Postal Code": 98585,
+   "PostalCode": 98585,
    "latitude": 1.263507,
    "longitude": 103.821133,
    "Number": 6563769740
@@ -4791,7 +4791,7 @@
    "categories": "noodles",
    "rating": 4,
    "Address": "216G Syed Alwi Rd",
-   "Postal Code": 207799,
+   "PostalCode": 207799,
    "latitude": 1.30749,
    "longitude": 103.85808,
    "Number": 6563963345
@@ -4804,7 +4804,7 @@
    "categories": "greek",
    "rating": 4.5,
    "Address": "73 Amoy St",
-   "Postal Code": 69892,
+   "PostalCode": 69892,
    "latitude": 1.280220788,
    "longitude": 103.8467126,
    "Number": 6562216124
@@ -4817,7 +4817,7 @@
    "categories": "coffee",
    "rating": 3.5,
    "Address": "402 East Coast Road",
-   "Postal Code": 428997,
+   "PostalCode": 428997,
    "latitude": 1.308830977,
    "longitude": 103.9120215,
    "Number": 6563459055
@@ -4830,7 +4830,7 @@
    "categories": "indpak",
    "rating": 3.5,
    "Address": "246M Upper Thomson Road",
-   "Postal Code": 574422,
+   "PostalCode": 574422,
    "latitude": 1.353771659,
    "longitude": 103.8342494,
    "Number": 6564595260
@@ -4843,7 +4843,7 @@
    "categories": "australian",
    "rating": 4,
    "Address": "12 Purvis St",
-   "Postal Code": 188591,
+   "PostalCode": 188591,
    "latitude": 1.296537233,
    "longitude": 103.8551941,
    "Number": 6563583130
@@ -4856,7 +4856,7 @@
    "categories": "cocktailbars",
    "rating": 4,
    "Address": "49 Tras Street",
-   "Postal Code": 78988,
+   "PostalCode": 78988,
    "latitude": 1.278078907,
    "longitude": 103.8445061,
    "Number": 6562223349
@@ -4869,7 +4869,7 @@
    "categories": "bakeries",
    "rating": 4.5,
    "Address": "55 Tiong Bahru Road",
-   "Postal Code": 160055,
+   "PostalCode": 160055,
    "latitude": 1.28444,
    "longitude": 103.834137,
    "Number": 6563241686
@@ -4882,7 +4882,7 @@
    "categories": "bbq",
    "rating": 4.5,
    "Address": "203 New Bridge Rd",
-   "Postal Code": 59429,
+   "PostalCode": 59429,
    "latitude": 1.28405,
    "longitude": 103.8436127,
    "Number": 6562278302
@@ -4895,7 +4895,7 @@
    "categories": "cafes",
    "rating": 5,
    "Address": "54 Boat Quay",
-   "Postal Code": 49843,
+   "PostalCode": 49843,
    "latitude": 1.28716,
    "longitude": 103.8492203,
    "Number": null
@@ -4908,7 +4908,7 @@
    "categories": "chinese",
    "rating": 4,
    "Address": "19 Purvis Street",
-   "Postal Code": 188598,
+   "PostalCode": 188598,
    "latitude": 1.29644,
    "longitude": 103.85562,
    "Number": 6563374640
@@ -4921,7 +4921,7 @@
    "categories": "cafes",
    "rating": 3.5,
    "Address": "11 Bali Lane",
-   "Postal Code": 189848,
+   "PostalCode": 189848,
    "latitude": 1.3006001,
    "longitude": 103.8589096,
    "Number": null
@@ -4934,7 +4934,7 @@
    "categories": "asianfusion",
    "rating": 4,
    "Address": "119 Tyrwhitt Rd",
-   "Postal Code": 207547,
+   "PostalCode": 207547,
    "latitude": 1.311133343,
    "longitude": 103.8598736,
    "Number": 6563415967
@@ -4947,7 +4947,7 @@
    "categories": "desserts",
    "rating": 3.5,
    "Address": "80 Mohammad Sultan Rd",
-   "Postal Code": 239013,
+   "PostalCode": 239013,
    "latitude": 1.291309287,
    "longitude": 103.8408514,
    "Number": 6562359007
@@ -4960,7 +4960,7 @@
    "categories": "bars",
    "rating": 3.5,
    "Address": "17 Jalan Klapa",
-   "Postal Code": 199329,
+   "PostalCode": 199329,
    "latitude": 1.304407489,
    "longitude": 103.859676,
    "Number": 6562950017
@@ -4973,7 +4973,7 @@
    "categories": "cafes",
    "rating": 4,
    "Address": "180 Kitchener Road",
-   "Postal Code": 208539,
+   "PostalCode": 208539,
    "latitude": 1.311346,
    "longitude": 103.856193,
    "Number": 6565098340
@@ -4986,7 +4986,7 @@
    "categories": "thai",
    "rating": 4,
    "Address": "27 Purvis St",
-   "Postal Code": 188604,
+   "PostalCode": 188604,
    "latitude": 1.29627,
    "longitude": 103.85532,
    "Number": 6563366908
@@ -4999,7 +4999,7 @@
    "categories": "cantonese",
    "rating": 4,
    "Address": "76 Bras Basah Rd",
-   "Postal Code": 189558,
+   "PostalCode": 189558,
    "latitude": 1.296078903,
    "longitude": 103.8525358,
    "Number": 6563118188
@@ -5012,7 +5012,7 @@
    "categories": "japanese",
    "rating": 3.5,
    "Address": "70 Collyer Quay",
-   "Postal Code": 49323,
+   "PostalCode": 49323,
    "latitude": 1.282520314,
    "longitude": 103.8535843,
    "Number": 6565333471
@@ -5025,7 +5025,7 @@
    "categories": "desserts",
    "rating": 3.5,
    "Address": "68 Orchard Road",
-   "Postal Code": 238839,
+   "PostalCode": 238839,
    "latitude": 1.299660069,
    "longitude": 103.8457131,
    "Number": 6563883277
@@ -5038,7 +5038,7 @@
    "categories": "seafood",
    "rating": 4,
    "Address": "Blk 211 Lorong 8 Toa Payoh",
-   "Postal Code": 310211,
+   "PostalCode": 310211,
    "latitude": 1.34083,
    "longitude": 103.854,
    "Number": 6563533120
@@ -5051,7 +5051,7 @@
    "categories": "diners",
    "rating": 3.5,
    "Address": "2 Handy Rd",
-   "Postal Code": 229233,
+   "PostalCode": 229233,
    "latitude": 1.2993784,
    "longitude": 103.8478027,
    "Number": 6567333375
@@ -5064,7 +5064,7 @@
    "categories": "singaporean",
    "rating": 4,
    "Address": "500 Jalan Sultan",
-   "Postal Code": 199020,
+   "PostalCode": 199020,
    "latitude": 1.305456171,
    "longitude": 103.860212,
    "Number": 6568162582
@@ -5077,7 +5077,7 @@
    "categories": "streetvendors",
    "rating": 4,
    "Address": "Blk 531A Upper Cross St",
-   "Postal Code": 50531,
+   "PostalCode": 50531,
    "latitude": 1.285164,
    "longitude": 103.845774,
    "Number": null
@@ -5090,7 +5090,7 @@
    "categories": "noodles",
    "rating": 4,
    "Address": "18 Tai Seng St",
-   "Postal Code": 534119,
+   "PostalCode": 534119,
    "latitude": 1.336161309,
    "longitude": 103.8886158,
    "Number": 6563862000
@@ -5103,7 +5103,7 @@
    "categories": "landmarks",
    "rating": 4,
    "Address": "Boat Quay",
-   "Postal Code": 49868,
+   "PostalCode": 49868,
    "latitude": 1.287345004,
    "longitude": 103.8490544,
    "Number": null
@@ -5116,7 +5116,7 @@
    "categories": "cafes",
    "rating": 4,
    "Address": "215R Upper Thompson Road",
-   "Postal Code": 574349,
+   "PostalCode": 574349,
    "latitude": 1.35263,
    "longitude": 103.83475,
    "Number": 6564561555
@@ -5129,7 +5129,7 @@
    "categories": "wine_bars",
    "rating": 4.5,
    "Address": "2 Stamford Road",
-   "Postal Code": 178882,
+   "PostalCode": 178882,
    "latitude": 1.293228178,
    "longitude": 103.853276,
    "Number": 6568373322
@@ -5142,7 +5142,7 @@
    "categories": "hawkercentre",
    "rating": 4.5,
    "Address": "531A Upper Cross St",
-   "Postal Code": 51531,
+   "PostalCode": 51531,
    "latitude": 1.285304,
    "longitude": 103.84574,
    "Number": null
@@ -5155,7 +5155,7 @@
    "categories": "diners",
    "rating": 4,
    "Address": "208 Telok Ayer Street",
-   "Postal Code": 68642,
+   "PostalCode": 68642,
    "latitude": 1.2799808,
    "longitude": 103.8471154,
    "Number": 6562213323
@@ -5168,7 +5168,7 @@
    "categories": "breakfast_brunch",
    "rating": 4,
    "Address": "120 Desker Rd",
-   "Postal Code": 209639,
+   "PostalCode": 209639,
    "latitude": 1.30811,
    "longitude": 103.85632,
    "Number": 6562916996
@@ -5181,7 +5181,7 @@
    "categories": "hotdogs",
    "rating": 4,
    "Address": "44 Jalan Eunos",
-   "Postal Code": 419502,
+   "PostalCode": 419502,
    "latitude": 1.320952,
    "longitude": 103.9054736,
    "Number": 6568446868
@@ -5194,7 +5194,7 @@
    "categories": "japanese",
    "rating": 4.5,
    "Address": "80 Middle Road",
-   "Postal Code": 188966,
+   "PostalCode": 188966,
    "latitude": 1.29855,
    "longitude": 103.854658,
    "Number": 6568251064
@@ -5207,7 +5207,7 @@
    "categories": "coffee",
    "rating": 4,
    "Address": "189 Thomson Rd",
-   "Postal Code": 307631,
+   "PostalCode": 307631,
    "latitude": 1.318665393,
    "longitude": 103.8435808,
    "Number": 6582830885
@@ -5220,7 +5220,7 @@
    "categories": "pubs",
    "rating": 4,
    "Address": "442 Orchard Rd",
-   "Postal Code": 238879,
+   "PostalCode": 238879,
    "latitude": 1.3074175,
    "longitude": 103.8289161,
    "Number": 6567350400
@@ -5233,7 +5233,7 @@
    "categories": "japanese",
    "rating": 4.5,
    "Address": "1 Kim Seng Promenade",
-   "Postal Code": 237994,
+   "PostalCode": 237994,
    "latitude": 1.293994726,
    "longitude": 103.8320773,
    "Number": 6568364910
@@ -5246,7 +5246,7 @@
    "categories": "indpak",
    "rating": 3.5,
    "Address": "33 Scotts Rd",
-   "Postal Code": 228226,
+   "PostalCode": 228226,
    "latitude": 1.31094,
    "longitude": 103.8352432,
    "Number": 6568360055
@@ -5259,7 +5259,7 @@
    "categories": "dimsum",
    "rating": 4,
    "Address": "Blk 10, Dempsey Road",
-   "Postal Code": 247700,
+   "PostalCode": 247700,
    "latitude": 1.30331,
    "longitude": 103.81041,
    "Number": 6592246611
@@ -5272,7 +5272,7 @@
    "categories": "bars",
    "rating": 4.5,
    "Address": "20 Bukit Pasoh Rd",
-   "Postal Code": 89832,
+   "PostalCode": 89832,
    "latitude": 1.27913,
    "longitude": 103.8408199,
    "Number": 6591148385
@@ -5285,7 +5285,7 @@
    "categories": "bakeries",
    "rating": 4,
    "Address": "1D Yong Siak St",
-   "Postal Code": 168641,
+   "PostalCode": 168641,
    "latitude": 1.282424098,
    "longitude": 103.8304909,
    "Number": 6564655942
@@ -5298,7 +5298,7 @@
    "categories": "beachbars",
    "rating": 3.5,
    "Address": "50 Siloso Beach Walk",
-   "Postal Code": 99000,
+   "PostalCode": 99000,
    "latitude": 1.2525899,
    "longitude": 103.8156509,
    "Number": 6566318938
@@ -5311,7 +5311,7 @@
    "categories": "french",
    "rating": 4,
    "Address": "Zion",
-   "Postal Code": 247781,
+   "PostalCode": 247781,
    "latitude": 1.292846999,
    "longitude": 103.831193,
    "Number": null
@@ -5324,7 +5324,7 @@
    "categories": "cafes",
    "rating": 4.5,
    "Address": "970 Geylang Rd",
-   "Postal Code": 423492,
+   "PostalCode": 423492,
    "latitude": 1.315372,
    "longitude": 103.895449,
    "Number": 6594567573
@@ -5337,7 +5337,7 @@
    "categories": "german",
    "rating": 3.5,
    "Address": "9 Raffles Boulevard",
-   "Postal Code": 39596,
+   "PostalCode": 39596,
    "latitude": 1.2918506,
    "longitude": 103.8601228,
    "Number": 6568832572
@@ -5350,7 +5350,7 @@
    "categories": "japanese",
    "rating": 3.5,
    "Address": "581 Orchard Road",
-   "Postal Code": 238883,
+   "PostalCode": 238883,
    "latitude": 1.30611,
    "longitude": 103.8292618,
    "Number": 6567322234
@@ -5363,7 +5363,7 @@
    "categories": "vegetarian",
    "rating": 4.5,
    "Address": "190 Middle Rd",
-   "Postal Code": 188979,
+   "PostalCode": 188979,
    "latitude": 1.30044,
    "longitude": 103.85225,
    "Number": 6563331612
@@ -5376,7 +5376,7 @@
    "categories": "korean",
    "rating": 4,
    "Address": "2 Kim Tian Road",
-   "Postal Code": 169244,
+   "PostalCode": 169244,
    "latitude": 1.28527,
    "longitude": 103.829277,
    "Number": 6562707704
@@ -5389,7 +5389,7 @@
    "categories": "indonesian",
    "rating": 4.5,
    "Address": "20 Joo Chiat Rd",
-   "Postal Code": 427357,
+   "PostalCode": 427357,
    "latitude": 1.31546,
    "longitude": 103.89783,
    "Number": 6562913132
@@ -5402,7 +5402,7 @@
    "categories": "thai",
    "rating": 4,
    "Address": "36 Purvis St",
-   "Postal Code": 188613,
+   "PostalCode": 188613,
    "latitude": 1.29656,
    "longitude": 103.85496,
    "Number": 6563371161
@@ -5415,7 +5415,7 @@
    "categories": "teppanyaki",
    "rating": 4.5,
    "Address": "72 Peck Seah St",
-   "Postal Code": 79329,
+   "PostalCode": 79329,
    "latitude": 1.27736,
    "longitude": 103.84468,
    "Number": 6569084348
@@ -5428,7 +5428,7 @@
    "categories": "indpak",
    "rating": 3.5,
    "Address": "50 Dunlop St",
-   "Postal Code": 209379,
+   "PostalCode": 209379,
    "latitude": 1.30506,
    "longitude": 103.8537,
    "Number": 6593827937
@@ -5441,7 +5441,7 @@
    "categories": "amusementparks",
    "rating": 4,
    "Address": "8 Sentosa Gateway",
-   "Postal Code": 98269,
+   "PostalCode": 98269,
    "latitude": 1.254055,
    "longitude": 103.823827,
    "Number": 6565778888
@@ -5454,7 +5454,7 @@
    "categories": "singaporean",
    "rating": 4.5,
    "Address": "50 East Coast Rd",
-   "Postal Code": 428769,
+   "PostalCode": 428769,
    "latitude": 1.30313,
    "longitude": 103.90485,
    "Number": null
@@ -5467,7 +5467,7 @@
    "categories": "cafes",
    "rating": 3.5,
    "Address": "320 Orchard Road",
-   "Postal Code": 238865,
+   "PostalCode": 238865,
    "latitude": 1.305268036,
    "longitude": 103.8326203,
    "Number": 16568314552
@@ -5480,7 +5480,7 @@
    "categories": "bars",
    "rating": 4,
    "Address": "19 Cecil St",
-   "Postal Code": 49704,
+   "PostalCode": 49704,
    "latitude": 1.28252277,
    "longitude": 103.8506229,
    "Number": 6564383757
@@ -5493,7 +5493,7 @@
    "categories": "italian",
    "rating": 4.5,
    "Address": "491 River Valley Rd",
-   "Postal Code": 248371,
+   "PostalCode": 248371,
    "latitude": 1.29309,
    "longitude": 103.8270798,
    "Number": 6567373001
@@ -5506,7 +5506,7 @@
    "categories": "tradamerican",
    "rating": 3.5,
    "Address": "Shangri-La Hotel",
-   "Postal Code": 258350,
+   "PostalCode": 258350,
    "latitude": 1.311180192,
    "longitude": 103.8266308,
    "Number": 6562134275
@@ -5519,7 +5519,7 @@
    "categories": "steak",
    "rating": 3.5,
    "Address": "2 Stamford Rd",
-   "Postal Code": 178882,
+   "PostalCode": 178882,
    "latitude": 1.293228178,
    "longitude": 103.8530507,
    "Number": 6563380261
@@ -5532,7 +5532,7 @@
    "categories": "french",
    "rating": 4,
    "Address": "66 Tras Street",
-   "Postal Code": 79005,
+   "PostalCode": 79005,
    "latitude": 1.27773,
    "longitude": 103.8440628,
    "Number": 6562258266
@@ -5545,7 +5545,7 @@
    "categories": "seafood",
    "rating": 3.5,
    "Address": "51 Pagoda St",
-   "Postal Code": 59212,
+   "PostalCode": 59212,
    "latitude": 1.283224,
    "longitude": 103.844439,
    "Number": 6562222224
@@ -5558,7 +5558,7 @@
    "categories": "ramen",
    "rating": 3.5,
    "Address": "6 Eu Tong Sen St",
-   "Postal Code": 59817,
+   "PostalCode": 59817,
    "latitude": 1.288913,
    "longitude": 103.846348,
    "Number": 6565348090
@@ -5571,7 +5571,7 @@
    "categories": "bars",
    "rating": 4,
    "Address": "33/34 Boat Quay",
-   "Postal Code": 49823,
+   "PostalCode": 49823,
    "latitude": 1.28621264,
    "longitude": 103.8497155,
    "Number": 6565354500
@@ -5584,7 +5584,7 @@
    "categories": "cocktailbars",
    "rating": 3.5,
    "Address": "1 St. Andrew's Rd",
-   "Postal Code": 178957,
+   "PostalCode": 178957,
    "latitude": 1.290433,
    "longitude": 103.8518,
    "Number": 6563845595
@@ -5597,7 +5597,7 @@
    "categories": "dimsum",
    "rating": 3.5,
    "Address": "91 Bencoolen St",
-   "Postal Code": 189652,
+   "PostalCode": 189652,
    "latitude": 1.300404,
    "longitude": 103.850956,
    "Number": 6598382851
@@ -5610,7 +5610,7 @@
    "categories": "indpak",
    "rating": 3.5,
    "Address": "138 Race Course Rd",
-   "Postal Code": 218591,
+   "PostalCode": 218591,
    "latitude": 1.30988,
    "longitude": 103.85232,
    "Number": 6563921722
@@ -5623,7 +5623,7 @@
    "categories": "italian",
    "rating": 4,
    "Address": "15-3 Jalan Riang",
-   "Postal Code": 358987,
+   "PostalCode": 358987,
    "latitude": 1.3474,
    "longitude": 103.8676,
    "Number": 6562825031
@@ -5636,7 +5636,7 @@
    "categories": "food_court",
    "rating": 3.5,
    "Address": "1 Harbourfront Walk",
-   "Postal Code": 98585,
+   "PostalCode": 98585,
    "latitude": 1.264822,
    "longitude": 103.822455,
    "Number": 6562760521
@@ -5649,7 +5649,7 @@
    "categories": "chinese",
    "rating": 4,
    "Address": "237 Geylang Lorong 9",
-   "Postal Code": 388756,
+   "PostalCode": 388756,
    "latitude": 1.3123,
    "longitude": 103.87664,
    "Number": 6593880723
@@ -5662,7 +5662,7 @@
    "categories": "seafood",
    "rating": 4.5,
    "Address": "13 Pahang St",
-   "Postal Code": 198613,
+   "PostalCode": 198613,
    "latitude": 1.3022323,
    "longitude": 103.8610412,
    "Number": 6597831847
@@ -5675,7 +5675,7 @@
    "categories": "streetvendors",
    "rating": 4.5,
    "Address": "85 Bedok N Street 4",
-   "Postal Code": 460085,
+   "PostalCode": 460085,
    "latitude": 1.33197,
    "longitude": 103.93877,
    "Number": 6596720521
@@ -5688,7 +5688,7 @@
    "categories": "coffee",
    "rating": 3.5,
    "Address": "Dempsey Rd",
-   "Postal Code": 247697,
+   "PostalCode": 247697,
    "latitude": 1.30684,
    "longitude": 103.81134,
    "Number": 6564761518
@@ -5701,7 +5701,7 @@
    "categories": "cafes",
    "rating": 4,
    "Address": "1 Raffles Link",
-   "Postal Code": 39393,
+   "PostalCode": 39393,
    "latitude": 1.29222,
    "longitude": 103.85577,
    "Number": 6568843486
@@ -5714,7 +5714,7 @@
    "categories": "korean",
    "rating": 3.5,
    "Address": "435 Orchard Road",
-   "Postal Code": 238877,
+   "PostalCode": 238877,
    "latitude": 1.30379,
    "longitude": 103.83319,
    "Number": null
@@ -5727,7 +5727,7 @@
    "categories": "vietnamese",
    "rating": 3,
    "Address": "501 Orchard Rd",
-   "Postal Code": 238880,
+   "PostalCode": 238880,
    "latitude": 1.304951625,
    "longitude": 103.831096,
    "Number": 6567351488
@@ -5740,7 +5740,7 @@
    "categories": "korean",
    "rating": 4.5,
    "Address": "1 Keong Saik Rd",
-   "Postal Code": 89109,
+   "PostalCode": 89109,
    "latitude": 1.279,
    "longitude": 103.84153,
    "Number": 6565130898
@@ -5753,7 +5753,7 @@
    "categories": "cantonese",
    "rating": 4,
    "Address": "135 Kitchener Road",
-   "Postal Code": 208518,
+   "PostalCode": 208518,
    "latitude": 1.309737327,
    "longitude": 103.8572252,
    "Number": 6562215073
@@ -5766,7 +5766,7 @@
    "categories": "cafes",
    "rating": 3.5,
    "Address": "136 Neil Rd",
-   "Postal Code": 88865,
+   "PostalCode": 88865,
    "latitude": 1.27837,
    "longitude": 103.8409,
    "Number": 6564239918
@@ -5779,7 +5779,7 @@
    "categories": "bars",
    "rating": 4,
    "Address": "6 Kim Tian Rd",
-   "Postal Code": 169246,
+   "PostalCode": 169246,
    "latitude": 1.2852519,
    "longitude": 103.8292453,
    "Number": 6562766609
@@ -5792,7 +5792,7 @@
    "categories": "gourmet",
    "rating": 4,
    "Address": "Ngee Ann City, Takashimaya Shopping Centre",
-   "Postal Code": 238873,
+   "PostalCode": 238873,
    "latitude": 1.3031742,
    "longitude": 103.8361177,
    "Number": 6568847361
@@ -5805,7 +5805,7 @@
    "categories": "dimsum",
    "rating": 4,
    "Address": "450 Lorong 6 Toa Payoh",
-   "Postal Code": 319394,
+   "PostalCode": 319394,
    "latitude": 1.331724876,
    "longitude": 103.8494415,
    "Number": null
@@ -5818,7 +5818,7 @@
    "categories": "amusementparks",
    "rating": 3.5,
    "Address": "45 Siloso Beach Walk",
-   "Postal Code": 99003,
+   "PostalCode": 99003,
    "latitude": 1.251961375,
    "longitude": 103.8168646,
    "Number": 6562740472
@@ -5831,7 +5831,7 @@
    "categories": "japanese",
    "rating": 3.5,
    "Address": "60B Orchard Rd",
-   "Postal Code": 238891,
+   "PostalCode": 238891,
    "latitude": 1.299631137,
    "longitude": 103.8453403,
    "Number": 6566844312
@@ -5844,7 +5844,7 @@
    "categories": "halal",
    "rating": 3.5,
    "Address": "72 Bussorah Street",
-   "Postal Code": 199485,
+   "PostalCode": 199485,
    "latitude": 1.30082,
    "longitude": 103.8599319,
    "Number": 6563417728
@@ -5857,7 +5857,7 @@
    "categories": "chinese",
    "rating": 4,
    "Address": "391 Orchard Road",
-   "Postal Code": 238872,
+   "PostalCode": 238872,
    "latitude": 1.3025399,
    "longitude": 103.83461,
    "Number": 6562381661
@@ -5870,7 +5870,7 @@
    "categories": "juicebars",
    "rating": 4,
    "Address": "24 Keong Siak Road",
-   "Postal Code": 89131,
+   "PostalCode": 89131,
    "latitude": 1.280080001,
    "longitude": 103.8416003,
    "Number": 6562248921
@@ -5883,7 +5883,7 @@
    "categories": "ramen",
    "rating": 3.5,
    "Address": "9 Scotts Rd",
-   "Postal Code": 228210,
+   "PostalCode": 228210,
    "latitude": 1.30681135,
    "longitude": 103.8320493,
    "Number": 6567344886
@@ -5896,7 +5896,7 @@
    "categories": "vegan",
    "rating": 4,
    "Address": "6 Eu Tong Sen Street",
-   "Postal Code": 59817,
+   "PostalCode": 59817,
    "latitude": 1.28882,
    "longitude": 103.84662,
    "Number": 6562244996
@@ -5909,7 +5909,7 @@
    "categories": "bakeries",
    "rating": 4,
    "Address": "607 Bukit Timah Road",
-   "Postal Code": 269708,
+   "PostalCode": 269708,
    "latitude": 1.324379,
    "longitude": 103.8094803,
    "Number": 6564660613
@@ -5922,7 +5922,7 @@
    "categories": "cantonese",
    "rating": 4.5,
    "Address": "363 Jalan Besar",
-   "Postal Code": 208994,
+   "PostalCode": 208994,
    "latitude": 1.31267,
    "longitude": 103.85956,
    "Number": 6568427759
@@ -5935,7 +5935,7 @@
    "categories": "sushi",
    "rating": 4.5,
    "Address": "391A Orchard Rd",
-   "Postal Code": 238873,
+   "PostalCode": 238873,
    "latitude": 1.30267456,
    "longitude": 103.8348515,
    "Number": 6567381111
@@ -5948,7 +5948,7 @@
    "categories": "cafes",
    "rating": 4.5,
    "Address": "10 Bayfront Ave",
-   "Postal Code": 18974,
+   "PostalCode": 18974,
    "latitude": 1.28221,
    "longitude": 103.85845,
    "Number": 6566888588
@@ -5961,7 +5961,7 @@
    "categories": "japanese",
    "rating": 3,
    "Address": "181 Orchard Road",
-   "Postal Code": 238896,
+   "PostalCode": 238896,
    "latitude": 1.3009279,
    "longitude": 103.8399306,
    "Number": 6566365949
@@ -5974,7 +5974,7 @@
    "categories": "italian",
    "rating": 4.5,
    "Address": "61 Cantonment Rd",
-   "Postal Code": 89757,
+   "PostalCode": 89757,
    "latitude": 1.2785388,
    "longitude": 103.8405396,
    "Number": 6562220930
@@ -5987,7 +5987,7 @@
    "categories": "raw_food",
    "rating": 3.5,
    "Address": "779 Bukit Timah Road",
-   "Postal Code": 269758,
+   "PostalCode": 269758,
    "latitude": 1.3310699,
    "longitude": 103.7964478,
    "Number": 6564684482
@@ -6000,7 +6000,7 @@
    "categories": "cafes",
    "rating": 3.5,
    "Address": "28 Lorong Ampas",
-   "Postal Code": 328781,
+   "PostalCode": 328781,
    "latitude": 1.326542024,
    "longitude": 103.8526838,
    "Number": 6562549128
@@ -6013,7 +6013,7 @@
    "categories": "coffee",
    "rating": 4,
    "Address": "6 Keong Saik Rd",
-   "Postal Code": 89114,
+   "PostalCode": 89114,
    "latitude": 1.27946,
    "longitude": 103.84157,
    "Number": 6591811451
@@ -6026,7 +6026,7 @@
    "categories": "icecream",
    "rating": 4.5,
    "Address": "41 Sunset Way",
-   "Postal Code": 597071,
+   "PostalCode": 597071,
    "latitude": 1.3234985,
    "longitude": 103.7675781,
    "Number": 6564633365
@@ -6039,7 +6039,7 @@
    "categories": "chinese",
    "rating": 4,
    "Address": "290 Orchard Rd",
-   "Postal Code": 238859,
+   "PostalCode": 238859,
    "latitude": 1.303798,
    "longitude": 103.835352,
    "Number": 6563336228
@@ -6052,7 +6052,7 @@
    "categories": "modern_european",
    "rating": 4,
    "Address": "93 Stamford Rd",
-   "Postal Code": 178897,
+   "PostalCode": 178897,
    "latitude": 1.296367356,
    "longitude": 103.8485195,
    "Number": 6563388770
@@ -6065,7 +6065,7 @@
    "categories": "indpak",
    "rating": 4.5,
    "Address": "41 Boat Quay",
-   "Postal Code": 49830,
+   "PostalCode": 49830,
    "latitude": 1.28657,
    "longitude": 103.84948,
    "Number": 6565350122
@@ -6078,7 +6078,7 @@
    "categories": "indpak",
    "rating": 4.5,
    "Address": "10 Buffalo Rd",
-   "Postal Code": 219784,
+   "PostalCode": 219784,
    "latitude": 1.30647,
    "longitude": 103.85129,
    "Number": 6562911943
@@ -6091,7 +6091,7 @@
    "categories": "chinese",
    "rating": 4.5,
    "Address": "24 Foch Rd",
-   "Postal Code": 209263,
+   "PostalCode": 209263,
    "latitude": 1.31221,
    "longitude": 103.8600235,
    "Number": 6562975068
@@ -6104,7 +6104,7 @@
    "categories": "chinese",
    "rating": 4.5,
    "Address": "1 Empress Pl",
-   "Postal Code": 179555,
+   "PostalCode": 179555,
    "latitude": 1.28721725,
    "longitude": 103.85144,
    "Number": 6567760777
@@ -6117,7 +6117,7 @@
    "categories": "chinese",
    "rating": 4,
    "Address": "25 Purvis Street",
-   "Postal Code": 188602,
+   "PostalCode": 188602,
    "latitude": 1.29628,
    "longitude": 103.8554382,
    "Number": 6563376819
@@ -6130,7 +6130,7 @@
    "categories": "desserts",
    "rating": 4.5,
    "Address": "32 North Canal Rd",
-   "Postal Code": 59288,
+   "PostalCode": 59288,
    "latitude": 1.286911,
    "longitude": 103.8473088,
    "Number": null
@@ -6143,7 +6143,7 @@
    "categories": "mediterranean",
    "rating": 3.5,
    "Address": "18 Marina Gardens Dr",
-   "Postal Code": 18953,
+   "PostalCode": 18953,
    "latitude": 1.284845,
    "longitude": 103.864192,
    "Number": 6566049988
@@ -6156,7 +6156,7 @@
    "categories": "chickenshop",
    "rating": 3.5,
    "Address": "2 Orchard Turn",
-   "Postal Code": 238801,
+   "PostalCode": 238801,
    "latitude": 1.3040799,
    "longitude": 103.83181,
    "Number": 6565098641
@@ -6169,7 +6169,7 @@
    "categories": "cafes",
    "rating": 3.5,
    "Address": "50 Cuscaden Road",
-   "Postal Code": 249724,
+   "PostalCode": 249724,
    "latitude": 1.306552,
    "longitude": 103.828363,
    "Number": 6562355232
@@ -6182,7 +6182,7 @@
    "categories": "dimsum",
    "rating": 4,
    "Address": "1 Cuscaden Road",
-   "Postal Code": 249715,
+   "PostalCode": 249715,
    "latitude": 1.30487884,
    "longitude": 103.8249793,
    "Number": 6567253288
@@ -6195,7 +6195,7 @@
    "categories": "sandwiches",
    "rating": 3.5,
    "Address": "179 Telok Ayer St",
-   "Postal Code": 68627,
+   "PostalCode": 68627,
    "latitude": 1.27987,
    "longitude": 103.84734,
    "Number": 6568154600
@@ -6208,7 +6208,7 @@
    "categories": "italian",
    "rating": 4,
    "Address": "118 Holland Ave",
-   "Postal Code": 278997,
+   "PostalCode": 278997,
    "latitude": 1.31055,
    "longitude": 103.79612,
    "Number": 6564751323
@@ -6221,7 +6221,7 @@
    "categories": "cocktailbars",
    "rating": 3.5,
    "Address": "80 Bras Basah Rd",
-   "Postal Code": 189560,
+   "PostalCode": 189560,
    "latitude": 1.293396498,
    "longitude": 103.853462,
    "Number": 6563397777
@@ -6234,7 +6234,7 @@
    "categories": "bars",
    "rating": 3.5,
    "Address": "120 Tanjong Beach Walk",
-   "Postal Code": 98942,
+   "PostalCode": 98942,
    "latitude": 1.243406,
    "longitude": 103.827697,
    "Number": 6597505323
@@ -6247,7 +6247,7 @@
    "categories": "cafes",
    "rating": 5,
    "Address": "22 Dunlop St",
-   "Postal Code": 209350,
+   "PostalCode": 209350,
    "latitude": 1.304404442,
    "longitude": 103.854288,
    "Number": 6590024414
@@ -6260,7 +6260,7 @@
    "categories": "cantonese",
    "rating": 4,
    "Address": "5 Raffles Avenue",
-   "Postal Code": 39797,
+   "PostalCode": 39797,
    "latitude": 1.29063,
    "longitude": 103.85844,
    "Number": 6568853500
@@ -6273,7 +6273,7 @@
    "categories": "chinese",
    "rating": 4,
    "Address": "21 Binjai Park",
-   "Postal Code": 589827,
+   "PostalCode": 589827,
    "latitude": 1.3364,
    "longitude": 103.78685,
    "Number": 6564683060
@@ -6286,7 +6286,7 @@
    "categories": "szechuan",
    "rating": 4,
    "Address": "80/82 Pagoda St",
-   "Postal Code": 59239,
+   "PostalCode": 59239,
    "latitude": 1.28379,
    "longitude": 103.84365,
    "Number": 6562226858
@@ -6299,7 +6299,7 @@
    "categories": "italian",
    "rating": 4,
    "Address": "1 Fusionopolis Way",
-   "Postal Code": 138632,
+   "PostalCode": 138632,
    "latitude": 1.298994847,
    "longitude": 103.7876004,
    "Number": 6564799521
@@ -6312,7 +6312,7 @@
    "categories": "dimsum",
    "rating": 3.5,
    "Address": "391 Orchard Road",
-   "Postal Code": 238872,
+   "PostalCode": 238872,
    "latitude": 1.3024978,
    "longitude": 103.8343576,
    "Number": 6562359088
@@ -6325,7 +6325,7 @@
    "categories": "burgers",
    "rating": 3.5,
    "Address": "501 Bukit Timah Rd",
-   "Postal Code": 259760,
+   "PostalCode": 259760,
    "latitude": 1.32275,
    "longitude": 103.8141,
    "Number": 6567631547
@@ -6338,7 +6338,7 @@
    "categories": "bars",
    "rating": 3.5,
    "Address": "331 North Bridge Road",
-   "Postal Code": 188720,
+   "PostalCode": 188720,
    "latitude": 1.296147,
    "longitude": 103.85359,
    "Number": 6563379416
@@ -6351,7 +6351,7 @@
    "categories": "food_court",
    "rating": 4,
    "Address": "116 Upper Bukit Timah Rd",
-   "Postal Code": 588172,
+   "PostalCode": 588172,
    "latitude": 1.339416243,
    "longitude": 103.7759658,
    "Number": null
@@ -6364,7 +6364,7 @@
    "categories": "cakeshop",
    "rating": 3,
    "Address": "181 Orchard Rd",
-   "Postal Code": 238896,
+   "PostalCode": 238896,
    "latitude": 1.3006941,
    "longitude": 103.8397641,
    "Number": 6565093673
@@ -6377,7 +6377,7 @@
    "categories": "desserts",
    "rating": 4.5,
    "Address": "29 Swan Lake Avenue",
-   "Postal Code": 455718,
+   "PostalCode": 455718,
    "latitude": 1.321616045,
    "longitude": 103.923928,
    "Number": 6587499929
@@ -6390,7 +6390,7 @@
    "categories": "french",
    "rating": 4,
    "Address": "35A Keong Saik Rd",
-   "Postal Code": 89142,
+   "PostalCode": 89142,
    "latitude": 1.2801146,
    "longitude": 103.8414164,
    "Number": 6562214506
@@ -6403,7 +6403,7 @@
    "categories": "mexican",
    "rating": 3.5,
    "Address": "11 Dempsey Rd",
-   "Postal Code": 249673,
+   "PostalCode": 249673,
    "latitude": 1.304008601,
    "longitude": 103.8102308,
    "Number": 6564713228
@@ -6416,7 +6416,7 @@
    "categories": "cafes",
    "rating": 4,
    "Address": "11 Haji Ln",
-   "Postal Code": 189204,
+   "PostalCode": 189204,
    "latitude": 1.300543424,
    "longitude": 103.8593126,
    "Number": 6563417213
@@ -6429,7 +6429,7 @@
    "categories": "pubs",
    "rating": 4.5,
    "Address": "One Raffles Link",
-   "Postal Code": 39393,
+   "PostalCode": 39393,
    "latitude": 1.291834,
    "longitude": 103.855907,
    "Number": 6563847188
@@ -6442,7 +6442,7 @@
    "categories": "cafes",
    "rating": 4,
    "Address": "190 Middle Road",
-   "Postal Code": 188979,
+   "PostalCode": 188979,
    "latitude": 1.300417039,
    "longitude": 103.8519255,
    "Number": 6563370486
@@ -6455,7 +6455,7 @@
    "categories": "asianfusion",
    "rating": 3,
    "Address": "2 Bayfront Avenue",
-   "Postal Code": 18972,
+   "PostalCode": 18972,
    "latitude": 1.28192,
    "longitude": 103.85883,
    "Number": null
@@ -6468,7 +6468,7 @@
    "categories": "museums",
    "rating": 4.5,
    "Address": "48 Pagoda Street",
-   "Postal Code": 59207,
+   "PostalCode": 59207,
    "latitude": 1.2835644,
    "longitude": 103.8443302,
    "Number": 6563252878
@@ -6481,7 +6481,7 @@
    "categories": "ramen",
    "rating": 5,
    "Address": "9 Raffles Blvd",
-   "Postal Code": 39596,
+   "PostalCode": 39596,
    "latitude": 1.293009,
    "longitude": 103.859495,
    "Number": 6568370335
@@ -6494,7 +6494,7 @@
    "categories": "german",
    "rating": 4,
    "Address": "362 Orchard Rd",
-   "Postal Code": 238887,
+   "PostalCode": 238887,
    "latitude": 1.3058525,
    "longitude": 103.8305537,
    "Number": 6597501488

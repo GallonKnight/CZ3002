@@ -1,26 +1,34 @@
 import React from 'react';
 import Card from 'react-bootstrap/Card';
-import AddToMapButton from './AddToMapButton';
-import './locationCards.css';
+import Button from 'react-bootstrap/Button';
 
 
+// actual component
+const LocationCards = ({item,handleClick}) => {
+  const{name,categories,rating,Number,Address,PostalCode,image_url} = item;
 
-function LocationCards(props) {
   return (
-    <Card style={{ width: '18rem' }}>
-      <Card.Img variant="top" src={props.image_url} />
-      <Card.Body>
-        <Card.Title>{props.title}</Card.Title>
-        <Card.Text>Category: {props.category}</Card.Text>
-        <Card.Text>Ratings: {props.rating}/5</Card.Text>
-        <Card.Text>Contact Number: {props.hpNum}</Card.Text>
-        <Card.Text>Address: {props.addr} {props.postal}</Card.Text>
+    <div className = "LocationCards">
+      <Card style={{ width: '17rem',height: '40rem',color:'black', padding:'10px', display: 'table-cell'}}>
+        <Card.Img variant="top" src={image_url} />
+        <Card.Body>
+          <Card.Title>{name}</Card.Title>
+          <Card.Text>Category: {categories}</Card.Text>
+          <Card.Text>Ratings: {rating}/5</Card.Text>
+          <Card.Text>Contact Number: {Number}</Card.Text>
+          <Card.Text>Address: {Address} <br /> Singapore {PostalCode}</Card.Text>
 
-        <Card.Text> description {props.text}</Card.Text>
-        <AddToMapButton></AddToMapButton>
-      </Card.Body>
-    </Card>
+          <Button
+          variant="primary"
+          onClick={() => handleClick(item)}
+          >
+            Add to Planner
+          </Button>
+
+        </Card.Body>
+      </Card>
+    </div>
   )
 }
 
-export default LocationCards
+export default LocationCards;
