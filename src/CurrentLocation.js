@@ -17,7 +17,7 @@ var greenMarker =  L.icon({
 });
 /*  END CSS FOR MARKER */
 
-function MapCurrentLocation(){
+function CurrentLocation(){
   const [position, setPosition] = useState(null);
   const [bbox, setBbox] = useState([]);
   const map = useMap();
@@ -49,4 +49,4 @@ function MapCurrentLocation(){
   );
 }
 
-export default MapCurrentLocation
+export default CurrentLocation

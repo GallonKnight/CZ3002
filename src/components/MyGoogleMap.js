@@ -8,8 +8,10 @@ import styled from 'styled-components';
 import AutoComplete from './Autocomplete';
 import Marker from './Marker';
 import logo from '../logo.png';
+import YelpMarker from './YelpMarker';
+import { isContentEditable } from '@testing-library/user-event/dist/utils';
 
-const data = require('../CZ3002_dataset_short.json');
+
 
 
 const markerStyle = {
@@ -36,7 +38,7 @@ class MyGoogleMap extends Component {
         geoCoder: null,
         places: [],
         center: [],
-        zoom: 9,
+        zoom: 15,
         address: '',
         draggable: true,
         lat: null,
@@ -123,15 +125,30 @@ class MyGoogleMap extends Component {
             navigator.geolocation.getCurrentPosition((position) => {
                 this.setState({
                     center: [position.coords.latitude, position.coords.longitude],
+                    zoom: 16,
                     lat: position.coords.latitude,
                     lng: position.coords.longitude
                 });
             });
         }
     }
+    getUnique(arr, comp) {
 
+        // store the comparison  values in array
+    const unique =  arr.map(e => e[comp])
 
-    render() {
+      // store the indexes of the unique objects
+    .map((e, i, final) => final.indexOf(e) === i && i)
+
+      // eliminate the false indexes & return unique objects
+    .filter((e) => arr[e]).map(e => arr[e]);
+
+    return unique;
+    }
+
+    render() {         
+        const data = require('../CZ3002_dataset.json');
+        const uniqueCategory = this.getUnique(data, 'categories')
         const {
             places, mapApiLoaded, mapInstance, mapApi,
         } = this.state;
@@ -144,6 +161,20 @@ class MyGoogleMap extends Component {
                         <AutoComplete map={mapInstance} mapApi={mapApi} addplace={this.addPlace} />
                     </div>
                 )}
+                {/* <div>
+                    <select>
+            
+                  <option selected disabled="true">-- Select Categories --</option>
+                  
+                  {
+                    uniqueCategory.map((item)=>(<option text>{item.categories}</option>))
+                    
+                    
+                  }
+                    </select>
+                </div> */}
+                
+               
                 <GoogleMapReact
                     center={this.state.center}
                     zoom={this.state.zoom}
@@ -164,17 +195,24 @@ class MyGoogleMap extends Component {
                     {data.map(item => {
                     return (
                     <div lat={item.latitude} lng={item.longitude}>
-                    <div onClick={()=>item.Address} />
+                    Category:
+                    <div categories ={item.FIELD1}>{item.categories}
+                    {"\n"} Name:
+                    <div  name={item.FIELD1}>{item.name}</div>
                     <img style={markerStyle} src={logo} alt="logo" />
+                    </div>
+                    
                     </div>
                     );
                     })} 
+                    
+                    
                     <Marker
                         text={this.state.address}
                         lat={this.state.lat}
                         lng={this.state.lng}
                     />
-
+                
 
                 </GoogleMapReact>
                 {/* <Datafile/> */}
@@ -182,6 +220,7 @@ class MyGoogleMap extends Component {
                     <div className="map-details">Latitude: <span>{this.state.lat}</span>, Longitude: <span>{this.state.lng}</span></div>
                     <div className="map-details">Zoom: <span>{this.state.zoom}</span></div>
                 </div>
+                
             </Wrapper >
         );
     }
