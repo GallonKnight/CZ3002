@@ -3,13 +3,19 @@ import Button from 'react-bootstrap/Button';
 import Container from 'react-bootstrap/Container';
 
 
-function Planner(props) {
+const Planner = ({cart,setCart}) => {
+
   return (
     <Container className='PlannerContainer'>
-      <h1>Planner Test Test</h1>
-      <p>
-        insert text here, prolly need some react component things
-      </p>
+      oii
+      <h1>Planner List</h1>
+      <div className = "Planner">
+        {cart.map((item)=>(
+          <div className="locationName" key={item.FIELD1}>
+            <p>{item.name}</p>
+          </div>
+        ))}
+      </div>
 
       <div className="inexButton">
         <Button variant="outline-secondary">Import</Button>{' '}

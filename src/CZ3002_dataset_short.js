@@ -1,4 +1,4 @@
-[
+const list = [
  {
    "FIELD1": 0,
    "name": "Gardens By The Bay",
@@ -142,4 +142,6 @@
    "longitude": 103.8399761,
    "Number": 6562202330
  }
-]
+];
+
+export default list;

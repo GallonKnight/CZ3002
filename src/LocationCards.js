@@ -1,55 +1,34 @@
-import React,{useEffect, useState} from 'react';
+import React from 'react';
 import Card from 'react-bootstrap/Card';
 import Button from 'react-bootstrap/Button';
-import './locationCards.css';
 
-
-
-
-function simulateNetworkRequest() {
-  return new Promise((resolve) => setTimeout(resolve, 2000));
-}
 
 // actual component
-function LocationCards(props) {
-  const [isLoading, setLoading] = useState(false); //reducer
-
-  useEffect(() => {
-    if (isLoading) {
-      simulateNetworkRequest().then(() => {
-        setLoading(false);
-        alert("Added {props.title}to planner");
-      });
-    }
-  }, [isLoading]);
-
-  const handleClick = () => {
-    setLoading(true);
-    
-  }
+const LocationCards = ({item,handleClick}) => {
+  const{name,categories,rating,Number,Address,PostalCode,image_url} = item;
 
   return (
-    <Card style={{ width: '18rem' }}>
-      <Card.Img variant="top" src={props.image_url} />
-      <Card.Body>
-        <Card.Title>{props.title}</Card.Title>
-        <Card.Text>Category: {props.category}</Card.Text>
-        <Card.Text>Ratings: {props.rating}/5</Card.Text>
-        <Card.Text>Contact Number: {props.hpNum}</Card.Text>
-        <Card.Text>Address: {props.addr} {props.postal}</Card.Text>
+    <div className = "LocationCards">
+      <Card style={{ width: '17rem',color:'black', padding:'10px', display: 'table-cell'}}>
+        <Card.Img variant="top" src={image_url} />
+        <Card.Body>
+          <Card.Title>{name}</Card.Title>
+          <Card.Text>Category: {categories}</Card.Text>
+          <Card.Text>Ratings: {rating}/5</Card.Text>
+          <Card.Text>Contact Number: {Number}</Card.Text>
+          <Card.Text>Address: {Address} <br /> Singapore {PostalCode}</Card.Text>
 
-        <Button
-        variant="primary"
-        disabled={isLoading}
-        onClick={!isLoading ? handleClick : null}
-        >
-          {isLoading ? 'Adding to Planner...' : 'Add to Planner'}
-        </Button>
+          <Button
+          variant="primary"
+          onClick={() => handleClick(item)}
+          >
+            Add to Planner
+          </Button>
 
-      </Card.Body>
-    </Card>
-    
+        </Card.Body>
+      </Card>
+    </div>
   )
 }
 
-export default LocationCards
+export default LocationCards;

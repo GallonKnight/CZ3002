@@ -1,8 +1,7 @@
-import Button from 'react-bootstrap/Button';
-import Container from 'react-bootstrap/Container';
+import React,{useState,useEffect} from 'react';
 import Nav from 'react-bootstrap/Nav';
 import Navbar from 'react-bootstrap/Navbar';
-import NavDropdown from 'react-bootstrap/NavDropdown';
+
 import { BrowserRouter as Router,
   Routes,
   Route,
@@ -14,6 +13,31 @@ import ViewLocations from './ViewLocations';
 
 
 function NavBar() {
+  const [cart,setCart] = useState([]);
+
+  // const handleClick = (item) => { //for ViewLocation
+    
+  //   if (cart.indexOf(item) !== -1) {
+  //     alert(item.name + " already added.");
+  //   }
+  //   else{
+  //     //setCart([...cart, item]);
+  //     cart.push(item)
+  //     alert("Added " + item.name);
+  //   }
+  //   console.log(cart); 
+  // };
+
+  const handleClick = (item) => {
+    if (cart.indexOf(item) !== -1) return;
+    setCart([...cart, item]);
+    alert("Added " + item.name)
+    console.log(cart)
+  };
+  // useEffect(() => {
+  //   console.log(cart.values);
+  // }, [cart.values]);
+
   return (
     <div>
     <Navbar collapseOnSelect expand="lg" bg="dark" variant="dark">
@@ -34,10 +58,10 @@ function NavBar() {
       we passes the imported component*/}
       
 
-      <Route path='/Planner' element={<Planner/>} />
+      <Route path='/Planner' element={<Planner  cart={cart} setCart={setCart}/>} />
       <Route path='/ViewMap' element={<ViewMap/>} />
       <Route path='/ViewMap2' element= {<ViewMap2/>} />
-      <Route path='ViewLocations' element = {<ViewLocations/>} />
+      <Route path='ViewLocations' element = {<ViewLocations cart={cart} setCart={setCart} handleClick={handleClick}/>} />
       
 
       {/*<Route exact path="/Planner" component={Planning} /> */}
