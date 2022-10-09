@@ -1,3 +1,5 @@
+
+
 .grid{
   min-height: height 100%;
   display: flex;
@@ -12,7 +14,7 @@
 .MainContainer{
   background-color: #829ed4;
   min-height: 100vh;
-  color: white;
+  color: black;
 }
 .leaflet-control-geosearch .results > *{
   line-height: 24px;
