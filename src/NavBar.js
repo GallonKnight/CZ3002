@@ -12,31 +12,28 @@ import Planner from './Planner';
 import ViewLocations from './ViewLocations';
 
 
+
 function NavBar() {
   const [cart,setCart] = useState([]);
 
   // const handleClick = (item) => { //for ViewLocation
-    
-  //   if (cart.indexOf(item) !== -1) {
-  //     alert(item.name + " already added.");
-  //   }
-  //   else{
-  //     //setCart([...cart, item]);
-  //     cart.push(item)
-  //     alert("Added " + item.name);
-  //   }
-  //   console.log(cart); 
+  //   setCart([...cart,item]);
+  //   alert("Added " + item.name)
+  //   console.log(cart)
   // };
 
   const handleClick = (item) => {
-    if (cart.indexOf(item) !== -1) return;
+    if (cart.indexOf(item) !== -1){
+      alert(item.name +  "is already in planner.");
+      return;
+    } 
     setCart([...cart, item]);
     alert("Added " + item.name)
-    console.log(cart)
   };
-  // useEffect(() => {
-  //   console.log(cart.values);
-  // }, [cart.values]);
+
+  useEffect(() => { //did component mount
+    console.log(cart);
+  }, [cart]);
 
   return (
     <div>

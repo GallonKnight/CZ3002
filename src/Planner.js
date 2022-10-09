@@ -12,7 +12,9 @@ const Planner = ({cart,setCart}) => {
       <div className = "Planner">
         {cart.map((item)=>(
           <div className="locationName" key={item.FIELD1}>
-            <p>{item.name}</p>
+            <p> asd {item.name} </p>
+            <p> asdasd {item.Address}</p>
+            <p> asdasdasd {item.PostalCode}</p>
           </div>
         ))}
       </div>
