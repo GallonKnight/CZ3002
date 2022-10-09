@@ -9,7 +9,7 @@ const LocationCards = ({item,handleClick}) => {
 
   return (
     <div className = "LocationCards">
-      <Card style={{ width: '17rem',color:'black', padding:'10px', display: 'table-cell'}}>
+      <Card style={{ width: '17rem',height: '40rem',color:'black', padding:'10px', display: 'table-cell'}}>
         <Card.Img variant="top" src={image_url} />
         <Card.Body>
           <Card.Title>{name}</Card.Title>

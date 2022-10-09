@@ -12,9 +12,24 @@ import Planner from './Planner';
 import ViewLocations from './ViewLocations';
 
 
+const Carter = ({match}) => {
+  const [cart,setCart] = useState([]);
+  
+  return(
+    <div>
+      {cart.map((item)=>(
+          <div className="locationName" key={item.FIELD1}>
+            <p> asd {item.name} </p>
+            <p> asdasd {item.Address}</p>
+            <p> asdasdasd {item.PostalCode}</p>
+          </div>
+        ))}
+    </div>
+  );
+}
 
 function NavBar() {
-  const [cart,setCart] = useState([]);
+  
 
   // const handleClick = (item) => {
   //   if (cart.indexOf(item) !== -1){
@@ -25,9 +40,9 @@ function NavBar() {
   //   alert("Added " + item.name)
   // };
 
-  useEffect(() => { //did component mount
-    console.log(cart);
-  }, [cart]);
+  // useEffect(() => { //did component mount
+  //   window.localStorage.setItem()
+  // });
 
   return (
     <div>
@@ -49,10 +64,10 @@ function NavBar() {
       we passes the imported component*/}
       
 
-      <Route path='/Planner' element={<Planner  cart={cart} />} />
+      <Route path='/Planner' element={<Planner  match={match} />} />
       <Route path='/ViewMap' element={<ViewMap/>} />
       <Route path='/ViewMap2' element= {<ViewMap2/>} />
-      <Route path='ViewLocations' element = {<ViewLocations cart={cart} setCart={setCart}/>} />
+      <Route path='ViewLocations' element = {<ViewLocations match={match}/>} />
       
 
       {/*<Route exact path="/Planner" component={Planning} /> */}
