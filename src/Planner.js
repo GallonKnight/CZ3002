@@ -3,7 +3,7 @@ import Button from 'react-bootstrap/Button';
 import Container from 'react-bootstrap/Container';
 
 
-function Planner() {
+function Planner(props) {
   return (
     <Container className='PlannerContainer'>
       <h1>Planner Test Test</h1>

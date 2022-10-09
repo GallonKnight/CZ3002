@@ -1,3 +1,14 @@
+.grid{
+  min-height: height 100%;
+  display: flex;
+  flex-wrap: wrap;
+  flex-direction: row;
+}
+
+.grid > div{
+  flex-basis:calc(50%-40px);
+}
+
 .MainContainer{
   background-color: #829ed4;
   min-height: 100vh;

@@ -24,7 +24,7 @@ function AddToMapButton() {
       disabled={isLoading}
       onClick={!isLoading ? handleClick : null}
     >
-      {isLoading ? 'Loading…' : 'Add to Planner'}
+      {isLoading ? 'Adding to Planner...' : 'Add to Planner'}
     </Button>
   );
 }
