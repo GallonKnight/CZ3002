@@ -18,7 +18,7 @@ const ViewLocations = ({cart,setCart}) => {
 
   const handleClick = (item) => {
     if (cart.indexOf(item) !== -1){
-      alert(item.name +  "is already in planner.");
+      alert(item.name +  " is already in planner.");
       return;
     } 
     setCart([...cart, item]);

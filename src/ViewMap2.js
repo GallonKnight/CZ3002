@@ -16,6 +16,7 @@ import "leaflet-geosearch/dist/geosearch.css";
 
 import { GeoSearchControl, OpenStreetMapProvider } from "leaflet-geosearch";
 import icon from "./constants";
+import CurrentLocation from './CurrentLocation';
 
 const center = [1.331232, 103.814020];
 
@@ -61,6 +62,7 @@ class ViewMap2 extends React.Component {
             attribution='&copy; <a href="http://www.openstreetmap.org/copyright">OpenStreetMap</a> &copy; <a href="http://cartodb.com/attributions">CartoDB</a>'
             url="https://cartodb-basemaps-{s}.global.ssl.fastly.net/dark_all/{z}/{x}/{y}.png"
           />
+          <CurrentLocation/>
           <LeafletgeoSearch />
         </MapContainer>
       </div>

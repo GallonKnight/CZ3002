@@ -195,14 +195,11 @@ class MyGoogleMap extends Component {
                     {data.map(item => {
                     return (
                     <div lat={item.latitude} lng={item.longitude}>
-                    Category:
-                    <div categories ={item.FIELD1}>{item.categories}
                     {"\n"} Name:
                     <div  name={item.FIELD1}>{item.name}</div>
                     <img style={markerStyle} src={logo} alt="logo" />
                     </div>
-                    
-                    </div>
+
                     );
                     })} 
                     
