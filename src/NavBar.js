@@ -37,7 +37,7 @@ function NavBar() {
       <Nav className="me-auto">
         <Nav.Link href="Planner">Planner</Nav.Link>
         <Nav.Link href="ViewMap">View Map</Nav.Link>
-        <Nav.Link href="ViewMap2">View Map2</Nav.Link>
+        {/*<Nav.Link href="ViewMap2">View Map2</Nav.Link>*/}
         <Nav.Link href="ViewLocations"> View Locations</Nav.Link>
       </Nav>
       </Navbar.Collapse>
@@ -51,7 +51,7 @@ function NavBar() {
 
       <Route path='/Planner' element={<Planner  cart={cart} />} />
       <Route path='/ViewMap' element={<ViewMap/>} />
-      <Route path='/ViewMap2' element= {<ViewMap2/>} />
+      {/*<Route path='/ViewMap2' element= {<ViewMap2/>} /> */ }
       <Route path='ViewLocations' element = {<ViewLocations cart={cart} setCart={setCart}/>} />
       
 

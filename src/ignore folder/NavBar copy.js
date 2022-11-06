@@ -6,10 +6,10 @@ import { BrowserRouter as Router,
   Routes,
   Route,
   Redirect } from "react-router-dom";
-import ViewMap from './ViewMap';
-import ViewMap2 from './ViewMap2';
-import Planner from './Planner';
-import ViewLocations from './ViewLocations';
+import ViewMap from '../ViewMap';
+import ViewMap2 from '../ViewMap2';
+import Planner from '../Planner';
+import ViewLocations from '../ViewLocations';
 
 
 
